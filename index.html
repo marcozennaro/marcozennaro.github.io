@@ -1,0 +1,258 @@
+---
+layout: null
+---
+{%- assign gs = site.data.papers -%}
+{%- assign a = site.author -%}
+{%- assign area_names = "tinyml:TinyML,weather:Weather stations,dtn:DTN,iot:IoT & wireless" | split: "," -%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>document.documentElement.classList.add("js");(function(){try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
+  <title>{{ site.title }} — TinyML, Weather Stations & DTN</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.title }} — TinyML, Weather Stations & DTN">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:url" content="{{ site.url }}/">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230B3C6E'/><text x='32' y='42' font-family='Arial' font-weight='700' font-size='28' fill='white' text-anchor='middle'>MZ</text></svg>">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap nav">
+      <a class="brand" href="#top" aria-label="Marco Zennaro — home">
+        <span class="brand-mark">MZ</span><span class="brand-name">Marco Zennaro</span>
+      </a>
+      <nav class="nav-links">
+        <a href="#research">Research</a>
+        <a href="#papers">Papers</a>
+        <a href="#workshops">Workshops</a>
+        <a href="#about">About</a>
+        <a class="nav-ext" href="{{ a.scholar }}" target="_blank" rel="noopener">Scholar ↗</a>
+        <button class="theme-toggle" type="button" aria-label="Toggle light / dark theme" title="Toggle light / dark">
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="wrap hero-top">
+      <div class="hero-copy">
+        <p class="eyebrow">Marco Zennaro · Research Scientist, ICTP</p>
+        <h1>IoT for <span class="hl">Development</span></h1>
+        <p class="lede">
+          I build and study low-cost, low-power sensing and networking for places the Internet
+          does not reach well — with a focus on <b>TinyML</b>, <b>low-cost weather station
+          networks</b> and <b>Delay Tolerant Networking</b> — at the
+          <a href="https://www.ictp.it/" target="_blank" rel="noopener">Abdus Salam International Centre for Theoretical Physics</a> in Trieste.
+        </p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="#research">Explore my research →</a>
+          <a class="btn btn-ghost" href="{{ a.scholar }}" target="_blank" rel="noopener">Google Scholar ↗</a>
+        </div>
+        <div class="stats">
+          {%- if gs.citations %}<div class="stat"><b>{{ gs.citations }}</b><span>Citations</span></div>{% endif %}
+          {%- if gs.h_index %}<div class="stat"><b>{{ gs.h_index }}</b><span>h-index</span></div>{% endif %}
+          <div class="stat"><b>{{ gs.papers | size }}</b><span>Publications</span></div>
+          <div class="stat"><b>30+</b><span>Countries</span></div>
+        </div>
+      </div>
+      <div class="hero-photo">
+        <div class="photo-frame">
+          <span class="photo-fallback" aria-hidden="true">MZ</span>
+          <img src="{{ '/assets/img/marco.jpg' | relative_url }}" alt="Marco Zennaro" onerror="this.remove()">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cats">
+    <div class="wrap cats-grid">
+      {%- for ar in site.data.areas %}
+      <a class="cat cat-{{ ar.key }} reveal" href="#{{ ar.key }}">
+        <span class="num">{{ ar.num }}</span>
+        <h3>{{ ar.title }}</h3>
+        <p>{{ ar.short }}</p>
+        <span class="go">Read more →</span>
+      </a>
+      {%- endfor %}
+      <a class="cat reveal" href="#papers">
+        <span class="num">04</span>
+        <h3>Latest papers</h3>
+        <p>My most recent publications, straight from Google Scholar.</p>
+        <span class="go">View papers →</span>
+      </a>
+      <a class="cat reveal" href="#workshops">
+        <span class="num">05</span>
+        <h3>Workshops</h3>
+        <p>Training activities I organized, with slides and material.</p>
+        <span class="go">View workshops →</span>
+      </a>
+      <a class="cat reveal" href="#about">
+        <span class="num">06</span>
+        <h3>About me</h3>
+        <p>Research scientist at ICTP, coordinating the Science, Technology and Innovation Unit.</p>
+        <span class="go">Read bio →</span>
+      </a>
+    </div>
+  </section>
+
+  <main class="wrap">
+
+    <section id="research" class="section">
+      <p class="eyebrow">Research</p>
+      <h2>Three research areas</h2>
+
+      {%- for ar in site.data.areas %}
+      {%- assign ap = gs.papers | where_exp: "p", "p.areas contains ar.key" -%}
+      {%- assign aw = site.data.workshops | where: "area", ar.key -%}
+      <article id="{{ ar.key }}" class="area area-{{ ar.key }} reveal">
+        <header class="area-head">
+          <span class="area-num">{{ ar.num }}</span>
+          <h3>{{ ar.title }}</h3>
+        </header>
+        <div class="area-grid">
+          <div class="area-text">
+            <p>{{ ar.body }}</p>
+            {%- if ar.links.size > 0 %}
+            <p class="area-links">
+              {%- for l in ar.links %}<a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }} ↗</a>{% endfor -%}
+            </p>
+            {%- endif %}
+            {%- if aw.size > 0 %}
+            <p class="area-meta"><b>{{ aw.size }}</b> workshop{% if aw.size != 1 %}s{% endif %} organized · <a href="#workshops" data-filter-link="{{ ar.key }}">see them</a></p>
+            {%- endif %}
+          </div>
+          <div class="area-papers">
+            <p class="mini-label">Recent papers · {{ ap.size }} in total</p>
+            <ol class="plist">
+              {%- for p in ap limit: site.area_papers %}
+              <li>
+                <a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>
+                <span class="pmeta">{{ p.authors }} — <i>{{ p.venue | truncate: 90 }}</i>{% if p.year != "" %}, {{ p.year }}{% endif %}</span>
+              </li>
+              {%- endfor %}
+            </ol>
+          </div>
+        </div>
+      </article>
+      {%- endfor %}
+    </section>
+
+    <section id="papers" class="section">
+      <p class="eyebrow">Publications</p>
+      <h2>Latest papers</h2>
+      <p class="section-lede">
+        My {{ site.latest_papers }} most recent papers, from
+        <a href="{{ a.scholar }}" target="_blank" rel="noopener">Google Scholar</a>{% if gs.updated %} (updated {{ gs.updated | date: "%-d %B %Y" }}){% endif %}.
+      </p>
+      <ul class="papers">
+        {%- for p in gs.papers limit: site.latest_papers %}
+        <li class="paper reveal">
+          <span class="pyear">{{ p.year }}</span>
+          <div>
+            <a class="ptitle" href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>
+            <span class="pmeta">{{ p.authors }}</span>
+            <span class="pmeta"><i>{{ p.venue }}</i>{% if p.cites > 0 %} · cited by {{ p.cites }}{% endif %}</span>
+            {%- if p.areas.size > 0 %}
+            <span class="tags">
+              {%- for t in p.areas %}{% for n in area_names %}{% assign kv = n | split: ":" %}{% if kv[0] == t %}<span class="tag tag-{{ t }}">{{ kv[1] }}</span>{% endif %}{% endfor %}{% endfor -%}
+            </span>
+            {%- endif %}
+          </div>
+        </li>
+        {%- endfor %}
+      </ul>
+      <p><a class="btn btn-ghost" href="{{ a.scholar }}" target="_blank" rel="noopener">All {{ gs.papers | size }} publications on Google Scholar ↗</a></p>
+    </section>
+
+    <section id="workshops" class="section">
+      <p class="eyebrow">Teaching &amp; training</p>
+      <h2>Workshops I organized</h2>
+      <div class="filters" role="toolbar" aria-label="Filter workshops by area">
+        <button class="chip is-on" data-filter="all">All</button>
+        {%- for n in area_names %}{% assign kv = n | split: ":" %}{% assign cnt = site.data.workshops | where: "area", kv[0] | size %}{% if cnt > 0 %}
+        <button class="chip chip-{{ kv[0] }}" data-filter="{{ kv[0] }}">{{ kv[1] }} <small>{{ cnt }}</small></button>{% endif %}{% endfor %}
+      </div>
+      <ul class="workshops">
+        {%- for w in site.data.workshops %}
+        <li class="ws reveal" data-area="{{ w.area }}">
+          <span class="ws-year">{{ w.year }}</span>
+          <div class="ws-body">
+            <h4>{% if w.url %}<a href="{{ w.url }}" target="_blank" rel="noopener">{{ w.title }}</a>{% else %}{{ w.title }}{% endif %}</h4>
+            <span class="pmeta">{{ w.place }}</span>
+            <span class="ws-links">
+              {%- for n in area_names %}{% assign kv = n | split: ":" %}{% if kv[0] == w.area %}<span class="tag tag-{{ w.area }}">{{ kv[1] }}</span>{% endif %}{% endfor -%}
+              {%- if w.url %}<a href="{{ w.url }}" target="_blank" rel="noopener">[Website]</a>{% endif -%}
+              {%- for s in w.slides %}{% assign ext = s.link | slice: 0, 4 %}<a href="{% if ext == 'http' %}{{ s.link }}{% else %}{{ s.link | relative_url }}{% endif %}" target="_blank" rel="noopener">[{{ s.label | default: "Slides" }}]</a>{% endfor -%}
+              {%- if w.material %}<a href="{{ w.material }}" target="_blank" rel="noopener">[Material]</a>{% endif -%}
+            </span>
+          </div>
+        </li>
+        {%- endfor %}
+      </ul>
+    </section>
+
+    <section id="about" class="section about">
+      <p class="eyebrow">About</p>
+      <h2>About me</h2>
+      <div class="about-grid">
+        <div class="prose">
+          <p>
+            Marco Zennaro is a Research Scientist at the Abdus Salam International Centre for
+            Theoretical Physics (ICTP) in Trieste, Italy, where he coordinates the Science, Technology
+            and Innovation Unit. He is also a Visiting Professor at the Kobe Institute of Computing
+            (KIC) in Kobe, Japan.
+          </p>
+          <p>
+            His research is in ICT4D, the use of Information and Communication Technologies for
+            Development, and in particular the Internet of Things for Development (IoT4D): wireless
+            sensor networks and their applications in developing countries, from environmental
+            monitoring to energy management. Over the years he has organized more than 30 training
+            activities on IoT, wireless networking and TinyML in developing countries, and he is the
+            lead organizer of the SciTinyML workshop series with Harvard University.
+          </p>
+          <p>
+            He received his PhD from KTH Royal Institute of Technology in Stockholm, Sweden, and his
+            MSc in Electronic Engineering from the University of Trieste, Italy.
+          </p>
+        </div>
+        <ul class="contact">
+          <li><span>Email</span><a href="mailto:{{ a.email }}">{{ a.email }}</a></li>
+          <li><span>Google Scholar</span><a href="{{ a.scholar }}" target="_blank" rel="noopener">Profile ↗</a></li>
+          <li><span>ORCID</span><a href="{{ a.orcid }}" target="_blank" rel="noopener">0000-0002-0578-0830 ↗</a></li>
+          <li><span>GitHub</span><a href="{{ a.github }}" target="_blank" rel="noopener">marcozennaro ↗</a></li>
+          <li><span>LinkedIn</span><a href="{{ a.linkedin }}" target="_blank" rel="noopener">Profile ↗</a></li>
+          <li><span>Address</span>ICTP, Strada Costiera 11, 34151 Trieste, Italy</li>
+        </ul>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <p class="foot-name">Marco Zennaro</p>
+        <p>TinyML, low-cost weather station networks and Delay Tolerant Networking at the
+          <a href="https://www.ictp.it/" target="_blank" rel="noopener">Abdus Salam ICTP</a>, Trieste.</p>
+      </div>
+      <div class="foot-links">
+        <a href="#research">Research</a>
+        <a href="#papers">Papers</a>
+        <a href="#workshops">Workshops</a>
+        <a href="{{ a.scholar }}" target="_blank" rel="noopener">Google Scholar ↗</a>
+        <a href="{{ a.github }}" target="_blank" rel="noopener">GitHub ↗</a>
+      </div>
+    </div>
+    <div class="wrap foot-base">© {{ site.time | date: "%Y" }} Marco Zennaro · Built with Jekyll on GitHub Pages</div>
+  </footer>
+
+  <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+</body>
+</html>

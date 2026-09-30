@@ -1,0 +1,146 @@
+# Workshops I organized — newest first.
+#
+# To add one, copy a block and edit it. Fields:
+#   title:     name of the workshop (required)
+#   year:      e.g. 2025 (required)
+#   place:     city / country / "Virtual"
+#   area:      tinyml | weather | dtn | iot   (drives the colored tag)
+#   url:       workshop website (optional)
+#   material:  link to code / GitHub repo (optional)
+#   slides:    list of slide decks (optional). Each item has a label and a link.
+#              Put PDFs in the /slides folder and link them as slides/<file>.pdf,
+#              or link to an external URL.
+#
+# Example:
+# - title: "Workshop on Low-cost Weather Stations"
+#   year: 2026
+#   place: "Trieste, Italy"
+#   area: weather
+#   url: https://indico.ictp.it/event/XXXX
+#   slides:
+#     - label: "Opening"
+#       link: slides/2026-weather-opening.pdf
+
+- title: "Workshop on TinyML for Sustainable Development"
+  year: 2025
+  place: "Bogotá, Colombia · ICTP & Universidad Javeriana"
+  area: tinyml
+  url: https://tinymlcolombia.notion.site/SciTinyML-2025-Scientific-Use-of-Machine-Learning-on-Low-Power-Devices-2736dbff8adb806c8bd0d1b79f57cf5d
+
+- title: "TinyML for Sustainable Development"
+  year: 2025
+  place: "Zomba, Malawi · ICTP & University of Malawi"
+  area: tinyml
+  url: https://tinymlmalawi.notion.site/Agenda-TinyML-workshop-Malawi-1bd6dbff8adb800c9271db78657a8ad0
+
+- title: "Workshop on TinyML for Sustainable Development"
+  year: 2024
+  place: "Brazil · IBM & ICTP"
+  area: tinyml
+  url: https://tinyml.seas.harvard.edu/SustainableDev-24/
+
+- title: "SciTinyML: Scientific Use of Machine Learning on Low-Power Devices"
+  year: 2024
+  place: "Virtual"
+  area: tinyml
+  url: https://tinyml.seas.harvard.edu/SciTinyML-24/
+  slides:
+    - label: "Slides"
+      link: https://tinyml.seas.harvard.edu/SciTinyML-24/assets/slides/marco_slides.pdf
+
+- title: "Workshop on TinyML for the SDGs"
+  year: 2024
+  place: "United Nations University (UNU)"
+  area: tinyml
+  material: https://github.com/marcozennaro/ICTP-UNU-TinyML
+
+- title: "SciTinyML: Scientific Use of Machine Learning on Low-Power Devices"
+  year: 2023
+  place: "ICTP & Harvard"
+  area: tinyml
+  url: https://tinyml.seas.harvard.edu/SciTinyML-23/
+
+- title: "SciTinyML: Scientific Use of Machine Learning on Low-Power Devices"
+  year: 2022
+  place: "ICTP & Harvard"
+  area: tinyml
+  url: https://tinyml.seas.harvard.edu/SciTinyML-22/
+  slides:
+    - label: "Welcome (Asia)"
+      link: https://tinyml.seas.harvard.edu/SciTinyML-22/assets/slides_asia/welcome.pdf
+
+- title: "SciTinyML: Scientific Use of Machine Learning on Low-Power Devices"
+  year: 2021
+  place: "Virtual · ICTP & Harvard"
+  area: tinyml
+  url: https://tinyml.seas.harvard.edu/SciTinyML-21/
+  slides:
+    - label: "Workshop opening"
+      link: https://tinyml.seas.harvard.edu/SciTinyML-21/assets/slides/WorkshopOpening.pdf
+
+- title: "Online course on IoT"
+  year: 2020
+  place: "IMSP, Benin (online)"
+  area: iot
+  material: https://github.com/marcozennaro/benin-2020
+
+- title: "IoT workshop at Makerere University"
+  year: 2020
+  place: "Kampala, Uganda"
+  area: iot
+  material: https://github.com/marcozennaro/uganda-2020
+
+- title: "IoT workshop"
+  year: 2020
+  place: "Myanmar"
+  area: iot
+  material: https://github.com/marcozennaro/myanmar_2020
+
+- title: "IoT workshop at WALC 2019"
+  year: 2019
+  place: "Guatemala"
+  area: iot
+  material: https://github.com/marcozennaro/walc2019
+
+- title: "IoT workshop at the Balseiro Summer School"
+  year: 2019
+  place: "Bariloche, Argentina"
+  area: iot
+  material: https://github.com/marcozennaro/bariloche_2019
+
+- title: "Workshop at the Indian Statistical Institute"
+  year: 2019
+  place: "Kolkata, India"
+  area: iot
+  material: https://github.com/marcozennaro/india-Kolkata-2019
+
+- title: "IoT workshop at MIT Pune"
+  year: 2019
+  place: "Pune, India"
+  area: iot
+  material: https://github.com/marcozennaro/india-pune-2019
+
+- title: "Workshop on IoT at the University of Rwanda"
+  year: 2019
+  place: "Kigali, Rwanda"
+  area: iot
+  material: https://github.com/marcozennaro/smr-rwanda-2019
+
+- title: "IoT workshop for Master students, University of Rwanda CoE in IoT"
+  year: 2019
+  place: "Kigali, Rwanda"
+  area: iot
+  material: https://github.com/marcozennaro/iot-rwanda-2019
+
+- title: "Workshop on IoT at IMSP"
+  year: 2019
+  place: "IMSP, Benin"
+  area: iot
+  material: https://github.com/marcozennaro/iot-benin-2019
+
+- title: "Wireless school (smr3188)"
+  year: 2018
+  place: "ICTP, Trieste, Italy"
+  area: iot
+  url: http://wireless.ictp.it/school_2018/
+  material: https://github.com/marcozennaro/smr3188

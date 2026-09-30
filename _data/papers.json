@@ -1,0 +1,2701 @@
+{
+ "updated": "2026-09-30",
+ "scholar_id": "qOtlP1AAAAAJ",
+ "citations": 5482,
+ "h_index": 38,
+ "i10_index": 109,
+ "papers": [
+  {
+   "title": "Micro-credential for Industry 4.0: engineering safety and reliability with integrated machine learning and soft skills",
+   "authors": "NF Abdullah, S Heidary, IH Zulkifli, A Abu-Samah, R Ibrahim, N Subhi, ...",
+   "venue": "Cogent Education 13 (1), 2598923",
+   "year": "2026",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:QD3KBmkZPeQC",
+   "areas": []
+  },
+  {
+   "title": "Development of a low cost IoT framework for continuous surface water quality monitoring in Nigeria",
+   "authors": "S Gizaw, A Oyewale, C Onime, K Obodo, A Okoya, A Akinyele, S Oloyede, ...",
+   "venue": "Discover Water 6 (1), 87",
+   "year": "2026",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:43bX7VzcjpAC",
+   "areas": []
+  },
+  {
+   "title": "Prompt-Guided Resource-Aware Neural Architecture Search for TinyML Object Detection Models",
+   "authors": "N Sakib, M Zennaro, N Nower",
+   "venue": "International Conference on Computational Collective Intelligence, 259-274",
+   "year": "2026",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:1taIhTC69MYC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Edge QuantNet: An Ultralight Quantized SE-ResNet Architecture for Leaf Disease Classification on Resource-Constrained Devices",
+   "authors": "S Hossain, M Zennaro, N Nower",
+   "venue": "International Conference on Computational Collective Intelligence, 318-332",
+   "year": "2026",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:FiytvqdAVhgC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Reliability-aware federated ordinal learning for weekly irrigation management zone prediction on edge nodes",
+   "authors": "R Mwawado, J Nsenga, M Zennaro, D Hanyurwimfura, A Morellos, ...",
+   "venue": "Smart Agricultural Technology, 102460",
+   "year": "2026",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:nRpfm8aw39MC",
+   "areas": []
+  },
+  {
+   "title": "Empowering Local Frugal Edge AI Innovation Based on Participatory Citizen Science in Developing Countries",
+   "authors": "JP Costa, T Basikolo, M Zennaro, J Shawe-Taylor",
+   "venue": "Sustainability 18 (10), 5100",
+   "year": "2026",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:jgBuDB5drN8C",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "MoC-TSCH: multi-objective MILP-based TSCH mobility optimization for network coverage and connectivity in IIoT",
+   "authors": "AN Mulatu, M Zennaro, F Gared, TV Prabhakar",
+   "venue": "Scientific Reports",
+   "year": "2026",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:BzfGm06jWhQC",
+   "areas": []
+  },
+  {
+   "title": "Amélioration des conditions de conservation des oignons au Sénégal basée sur l'IA et l'IoT",
+   "authors": "M Sall, PA Barro, M Zennaro, GS Fam",
+   "venue": "Colloque sur les Objets et systèmes Connectés COC'2026",
+   "year": "2026",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ALROH1vI_8AC",
+   "areas": []
+  },
+  {
+   "title": "Edge ML vs. TinyML: A Comparative Analysis with Experimental Results on Power Efficiency and Model Optimization",
+   "authors": "M Altayeb, M Zennaro, P Manzoni",
+   "venue": "2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC), 1-4",
+   "year": "2026",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:otzGkya1bYkC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Green AI Orchestration Bridging Trustworthy AI and Edge AI through tinyML for Frugal Intelligence",
+   "authors": "JP Costa, I Ntinou, M Zennaro, J Shawe-Taylor",
+   "venue": "2026 18th International Conference on COMmunication Systems and NETworks…",
+   "year": "2026",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:lgwcVrK6X84C",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Communication and Energy Consumption Performance of a Multi‐Floor Indoor Meshtastic‐Based LoRa Mesh Network",
+   "authors": "NHN Maizan, NF Abdullah, M Zennaro, HAH Alobaidy, A Abu‐Samah",
+   "venue": "IET Communications 20 (1), e70221",
+   "year": "2026",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:IaI1MmNe2tcC",
+   "areas": []
+  },
+  {
+   "title": "Internet of things, artificial intelligence of things and digital twins",
+   "authors": "A Mellit, A Rabhi, M Zennaro",
+   "venue": "Embedded Artificial Intelligence and the Internet of Things for Photovoltaic…",
+   "year": "2026",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:7BrZ7Jt4UNcC",
+   "areas": []
+  },
+  {
+   "title": "Recent Advances in the Application of TinyML and Edge Devices in Photovoltaic Systems: Bridging the Gap Between Laboratory Research and Industry",
+   "authors": "A Mellit, M Zennaro",
+   "venue": "2025 International Conference on Artificial Intelligence, Embedded Systems…",
+   "year": "2025",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:1lhNe0rCu4AC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Delay tolerant networking to extend connectivity in rural areas using public transport systems: Design and analysis",
+   "authors": "S Abdeljabar, M Zennaro, MS Alouini",
+   "venue": "IEEE Internet of Things Journal",
+   "year": "2025",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:4xDN1ZYqzskC",
+   "areas": [
+    "dtn"
+   ]
+  },
+  {
+   "title": "MTSCH: MILP-based mobility-aware TSCH networks for IIoT",
+   "authors": "AN Mulatu, M Zennaro, F Gared, TV Prabhakar",
+   "venue": "2025 International Conference on Information and Communication Technology…",
+   "year": "2025",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:buQ7SEKw-1sC",
+   "areas": []
+  },
+  {
+   "title": "On the field-readiness of LoRaWAN for Weather Station networks in Developing Regions",
+   "authors": "R Paškauskas, M Zennaro",
+   "venue": "2025 IEEE Global Humanitarian Technology Conference (GHTC), 108-115",
+   "year": "2025",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:uDGL6kOW6j0C",
+   "areas": [
+    "weather"
+   ]
+  },
+  {
+   "title": "Adaptive network switching algorithm for sensor data transfer: a simulation framework integrating GSM, Wi-Fi, and LoRa networks",
+   "authors": "EE Namugenyi, J Sansa Otim, M Zennaro, S Wolthusen, M Nsabagwa",
+   "venue": "Frontiers in the Internet of Things 4, 1520653",
+   "year": "2025",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:0CzhzZyukY4C",
+   "areas": []
+  },
+  {
+   "title": "DTS-TSCH: adaptive Thompson sampling for channel estimation in TSCH networks for IIoT",
+   "authors": "AN Mulatu, M Zennaro, F Gared, P TV",
+   "venue": "Scientific African 29, e02798",
+   "year": "2025",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:U4n9YNQMCAIC",
+   "areas": []
+  },
+  {
+   "title": "Efficient split learning lstm models for fpga-based edge iot devices",
+   "authors": "RS Molina, V Ninkovic, D Vukobratovic, ML Crespo, M Zennaro",
+   "venue": "2025 IEEE International Conference on Machine Learning for Communication and…",
+   "year": "2025",
+   "cites": 16,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Bg7qf7VwUHIC",
+   "areas": []
+  },
+  {
+   "title": "From mountains to data: low-cost weather stations in Kyrgyzstan’s challenging terrain",
+   "authors": "M Zennaro, E Pietrosemoli, A Soltobaev, T Sultanov, B Moldobekov",
+   "venue": "Frontiers in Communications and Networks 6, 1505375",
+   "year": "2025",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ZzlSgRqYykMC",
+   "areas": [
+    "weather"
+   ]
+  },
+  {
+   "title": "TinyML for fault diagnosis of photovoltaic modules using edge impulse platform and IR thermography images",
+   "authors": "A Mellit, N Blasuttigh, S Pastore, M Zennaro, AM Pavan",
+   "venue": "IEEE Transactions on Industry Applications 61 (5), 8158-8169",
+   "year": "2025",
+   "cites": 10,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:4X0JR2_MtJMC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Naïve Bayes Based Android Adaptive User Authentication Prototype for Young Internet of Medical Things Users",
+   "authors": "PM Mavhemwa, M Zennaro, P Nsengiyumva, F Nzanywayingoma",
+   "venue": "IET Communications 19 (1), e70082",
+   "year": "2025",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:6yz0xqPARnAC",
+   "areas": []
+  },
+  {
+   "title": "Detection and Classification of High Energy Cosmic Rays Using TinyML",
+   "authors": "M Altayeb, M Zennaro",
+   "venue": "2024 IEEE/ACM Symposium on Edge Computing (SEC), 431-436",
+   "year": "2024",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:vDZJ-YLwNdEC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "An Android-Based Internet of Medical Things Adaptive User Authentication and Authorization Model for the Elderly",
+   "authors": "PM Mavhemwa, M Zennaro, P Nsengiyumva, F Nzanywayingoma",
+   "venue": "Journal of Cybersecurity and Privacy 4 (4), 993-1017",
+   "year": "2024",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:nVrZBo8bIpAC",
+   "areas": []
+  },
+  {
+   "title": "Predictive method for cleaning photovoltaic plants in desert areas using TinyML and IoT technique",
+   "authors": "A Mellit, M Chourouk, M Zennaro",
+   "venue": "2024 3rd International Conference on Advanced Electrical Engineering (ICAEE…",
+   "year": "2024",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:artPoR2Yc-kC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Investigating the Correlation Between Choice of Spreading Factor and Duty Cycle Calculations on Energy Consumption Profiles for LoRa: Insights from Optimized Image and Audio …",
+   "authors": "EE Namugenyi, JS Otim, M Zennaro, S Wolthusen, M Nsabagwa, ...",
+   "venue": "International Conference on Communications and Networking in China, 241-261",
+   "year": "2024",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:NyGDZy8z5eUC",
+   "areas": []
+  },
+  {
+   "title": "Comsplit: A communication-aware split learning design for heterogeneous iot platforms",
+   "authors": "V Ninkovic, D Vukobratovic, D Miskovic, M Zennaro",
+   "venue": "IEEE Internet of Things Journal 12 (5), 5305-5319",
+   "year": "2024",
+   "cites": 19,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:gKiMpY-AVTkC",
+   "areas": []
+  },
+  {
+   "title": "AI* LoRa: Enabling efficient long-range communication with machine learning at the edge",
+   "authors": "B Arratia, E Rosas, E Pietrosemoli, M Zennaro, JM Cecilia, P Manzoni",
+   "venue": "Proceedings of the Twenty-fifth International Symposium on Theory…",
+   "year": "2024",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:gVv57TyPmFsC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Weighted naïve bayes multi-user classification for adaptive authentication",
+   "authors": "PM Mavhemwa, M Zennaro, P Nsengiyumva, F Nzanywayingoma",
+   "venue": "Journal of Physics Communications 8 (10), 105005",
+   "year": "2024",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tH6gc1N1XXoC",
+   "areas": []
+  },
+  {
+   "title": "Adaptive edge-based aiot architecture for efficient retraining and sustainable monitoring of ephemeral streams",
+   "authors": "B Arratia, JM Cecilia, P Manzoni, D Hernández, M Zennaro",
+   "venue": "Latin American High Performance Computing Conference, 246-260",
+   "year": "2024",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:AHdEip9mkN0C",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Optimizing Battery Life for LoRaWAN Range Extenders: Techniques and Strategies",
+   "authors": "M Altayeb, M Zennaro, E Pietrosemoli",
+   "venue": "Proceedings of the 2024 International Conference on Information Technology…",
+   "year": "2024",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:lvd772isFD0C",
+   "areas": []
+  },
+  {
+   "title": "Optimizing soil-based crop recommendations with federated learning on Raspberry Pi edge computing nodes",
+   "authors": "R Mwawado, M Zennaro, J Nsenga, D Hanyurwimfura",
+   "venue": "2024 11th International Conference on Internet of Things: Systems…",
+   "year": "2024",
+   "cites": 10,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:5icHVeHT4IsC",
+   "areas": []
+  },
+  {
+   "title": "Exploring the boundaries of connected systems: communications for hard-to-reach areas and extreme conditions",
+   "authors": "MA Imran, M Zennaro, OR Popoola, L Chiaraviglio, H Zhang, P Manzoni, ...",
+   "venue": "Proceedings of the IEEE 112 (7), 912-945",
+   "year": "2024",
+   "cites": 79,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:a3BOlSfXSfwC",
+   "areas": []
+  },
+  {
+   "title": "TinyML for Edge Intelligence in IoT and LPWAN Networks",
+   "authors": "BS Chaudhari, SN Ghorpade, M Zennaro, R Paškauskas",
+   "venue": "Elsevier",
+   "year": "2024",
+   "cites": 6,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Ak0FvsSvgGUC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Thermal Camera Prototype for Predictive Maintenance in Photovoltaic Applications Based on TinyML Embedded System",
+   "authors": "N Blasuttigh, A Mellit, A Massi Pavan, M Zennaro",
+   "venue": "International Conference of the TC Electrimacs Committee, 727-738",
+   "year": "2024",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:BJbdYPG6LGMC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "TinyML4D: scaling embedded machine learning education in the developing world",
+   "authors": "B Plancher, S Buttrich, J Ellis, N Goveas, L Kazimierski, JL Sotelo, M Lukic, ...",
+   "venue": "Proceedings of the AAAI symposium series 3 (1), 508-515",
+   "year": "2024",
+   "cites": 16,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:F9fV5C73w3QC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Deep-learning empowered unique and rapid optimization of meta-absorbers for solar thermophotovoltaics",
+   "authors": "S Noureen, S Ijaz, I Javed, H Cabrera, M Zennaro, M Zubair, ...",
+   "venue": "Optical Materials Express 14 (4), 1025-1038",
+   "year": "2024",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:sJsF-0ZLhtgC",
+   "areas": []
+  },
+  {
+   "title": "Exploring computing paradigms for electric vehicles: from cloud to edge intelligence, challenges and future directions",
+   "authors": "SB Chougule, BS Chaudhari, SN Ghorpade, M Zennaro",
+   "venue": "World Electric Vehicle Journal 15 (2), 39",
+   "year": "2024",
+   "cites": 65,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ODE9OILHJdcC",
+   "areas": []
+  },
+  {
+   "title": "On TinyML WiFi fingerprinting-based indoor localization: Comparing RSSI vs. CSI utilization",
+   "authors": "D Mendez, M Zennaro, M Altayeb, P Manzoni",
+   "venue": "2024 IEEE 21st Consumer Communications & Networking Conference (CCNC), 1-6",
+   "year": "2024",
+   "cites": 12,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:yMeIxYmEMEAC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "TinyML: principles and algorithms",
+   "authors": "SN Ghorpade, S Chougule, BS Chaudhari, M Zennaro",
+   "venue": "TinyML for Edge Intelligence in IoT and LPWAN Networks, 65-86",
+   "year": "2024",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:GFxP56DSvIMC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Cloud and edge intelligence",
+   "authors": "S Chougule, BS Chaudhari, SN Ghorpade, M Zennaro",
+   "venue": "TinyML for Edge Intelligence in IoT and LPWAN Networks, 27-63",
+   "year": "2024",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:8xutWZnSdmoC",
+   "areas": []
+  },
+  {
+   "title": "TinyML for low-power Internet of Things",
+   "authors": "BS Chaudhari, SN Ghorpade, M Zennaro, R Paškauskas",
+   "venue": "TinyML for Edge Intelligence in IoT and LPWAN Networks, 1-12",
+   "year": "2024",
+   "cites": 12,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Ehil0879vHcC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Reinforcement learning for LoRaWANs",
+   "authors": "A Askhedkar, BS Chaudhari, M Zennaro",
+   "venue": "TinyML for Edge Intelligence in IoT and LPWAN Networks, 103-123",
+   "year": "2024",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:nZcligLrVowC",
+   "areas": []
+  },
+  {
+   "title": "Software frameworks for TinyML",
+   "authors": "S Chougule, SN Ghorpade, BS Chaudhari, M Zennaro",
+   "venue": "TinyML for edge intelligence in ioT and LPWAN networks, 125-147",
+   "year": "2024",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:P7Ujq4OLJYoC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "6TiSCH adaptive scheduling for Industrial Internet of Things",
+   "authors": "N Pradhan, BS Chaudhari, M Zennaro",
+   "venue": "TinyML for Edge Intelligence in IoT and LPWAN Networks, 283-309",
+   "year": "2024",
+   "cites": 6,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:OP4eGU-M3BUC",
+   "areas": []
+  },
+  {
+   "title": "Optimizing the performance of LoRaWAN range extenders in sparse and unconventional contexts",
+   "authors": "M Altayeb, M Zennaro, E Pietrosemoli, P Manzoni",
+   "venue": "2023 IEEE Globecom Workshops (GC Wkshps), 714-719",
+   "year": "2023",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:r_AWSJRzSzQC",
+   "areas": []
+  },
+  {
+   "title": "Smart buildings: Water leakage detection using tinyml",
+   "authors": "O Atanane, A Mourhir, N Benamar, M Zennaro",
+   "venue": "Sensors 23 (22), 9210",
+   "year": "2023",
+   "cites": 61,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:yFnVuubrUp4C",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "SimIoT: A simulator for verification and profiling of complex IoT deployments",
+   "authors": "JA de la Torre, F Rincón, M Zennaro, J Caba, J Barba, JC López",
+   "venue": "2023 26th Euromicro Conference on Digital System Design (DSD), 610-617",
+   "year": "2023",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:KbBQZpvPDL4C",
+   "areas": []
+  },
+  {
+   "title": "LoRa communication using TVWS frequencies: Range and data rate",
+   "authors": "AR Askhedkar, BS Chaudhari, M Abdelhaq, R Alsaqour, R Saeed, ...",
+   "venue": "Future Internet 15 (8), 270",
+   "year": "2023",
+   "cites": 22,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:HtS1dXgVpQUC",
+   "areas": []
+  },
+  {
+   "title": "A lorawan uplink range-extender (lure) for extended and energy-efficient wireless iot communications",
+   "authors": "M Altayeb, M Zennaro, E Pietrosemoli, P Manzoni, R Nordin",
+   "venue": "ICC 2023-IEEE International Conference on Communications, 6151-6156",
+   "year": "2023",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:bKqednn6t2AC",
+   "areas": []
+  },
+  {
+   "title": "Crowdsourcing through tinyml as a way to engage end-users in iot solutions",
+   "authors": "P Manzoni, M Zennaro, F Ahlgren, T Olsson, C Prandi",
+   "venue": "Mobile Crowdsourcing: From Theory to Practice, 359-385",
+   "year": "2023",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:4vMrXwiscB8C",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "User-centred design of machine learning based internet of medical things (iomt) adaptive user authentication using wearables and smartphones",
+   "authors": "PM Mavhemwa, M Zennaro, P Nsengiyumva, F Nzanywayingoma",
+   "venue": "Computer Science On-line Conference, 783-799",
+   "year": "2023",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:HIFyuExEbWQC",
+   "areas": []
+  },
+  {
+   "title": "TinyML gamma radiation classifier",
+   "authors": "M Altayeb, M Zennaro, E Pietrosemoli",
+   "venue": "Nuclear Engineering and Technology 55 (2), 443-451",
+   "year": "2023",
+   "cites": 14,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_5tno0g5mFcC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Bridging the digital divide: the promising impact of tinyml for developing countries",
+   "authors": "M Zennaro, B Plancher, V Janapa Reddi",
+   "venue": "The UN 8th Multistakeholder Forum on Science, Technology and Innovation for…",
+   "year": "2023",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:IUKN3-7HHlwC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "High Capacity long distance wireless link",
+   "authors": "E Pietrosemoli, M Zennaro, G Misuri, M Calderini, R Rossi, M Brunozzi, ...",
+   "venue": "Accessed: Sep",
+   "year": "2023",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:uc_IGeMz5qoC",
+   "areas": []
+  },
+  {
+   "title": "Massive RF Simulation Applied to School Connectivity in Malawi",
+   "authors": "E Pietrosemoli, M Rainone, M Zennaro, C Mikeka",
+   "venue": "2022 IEEE Global Humanitarian Technology Conference (GHTC), 121-124",
+   "year": "2022",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:LO7wyVUgiFcC",
+   "areas": []
+  },
+  {
+   "title": "Classifying mosquito wingbeat sound using TinyML",
+   "authors": "M Altayeb, M Zennaro, M Rovai",
+   "venue": "Proceedings of the 2022 ACM Conference on Information Technology for Social…",
+   "year": "2022",
+   "cites": 17,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:DUooU5lO8OsC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "On-device iot-based predictive maintenance analytics model: Comparing tinylstm and tinymodel from edge impulse",
+   "authors": "IN Mihigo, M Zennaro, A Uwitonze, J Rwigema, M Rovai",
+   "venue": "Sensors 22 (14), 5174",
+   "year": "2022",
+   "cites": 72,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:0izLItjtcgwC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "6TiSCH low latency autonomous scheduling for Industrial Internet of Things",
+   "authors": "NM Pradhan, BS Chaudhari, M Zennaro",
+   "venue": "IEEE Access 10, 71566-71575",
+   "year": "2022",
+   "cites": 35,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:anf4URPfarAC",
+   "areas": []
+  },
+  {
+   "title": "Convergence of information-centric networks and edge intelligence for IoV: Challenges and future directions",
+   "authors": "SS Musa, M Zennaro, M Libsie, E Pietrosemoli",
+   "venue": "Future Internet 14 (7), 192",
+   "year": "2022",
+   "cites": 38,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:FAceZFleit8C",
+   "areas": []
+  },
+  {
+   "title": "Recent advances in plant diseases detection with machine learning: Solution for developing countries",
+   "authors": "JO Adeola, J Degila, M Zennaro",
+   "venue": "2022 IEEE International Conference on Smart Computing (SMARTCOMP), 374-380",
+   "year": "2022",
+   "cites": 6,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:HtEfBTGE9r8C",
+   "areas": []
+  },
+  {
+   "title": "A LoRa-based protocol for connecting IoT edge computing nodes to provide small-data-based services",
+   "authors": "K Nakamura, P Manzoni, A Redondi, E Longo, M Zennaro, JC Cano, ...",
+   "venue": "Digital Communications and Networks 8 (3), 257-266",
+   "year": "2022",
+   "cites": 35,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Dip1O2bNi0gC",
+   "areas": []
+  },
+  {
+   "title": "Guest editorial special issue on sustainable solutions for the internet of things",
+   "authors": "P Manzoni, R Li, M Zennaro, S Figueria",
+   "venue": "IEEE Internet of Things Journal 9 (10), 7091-7094",
+   "year": "2022",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:4fGpz3EwCPoC",
+   "areas": []
+  },
+  {
+   "title": "TinyML: applied AI for development",
+   "authors": "M Zennaro, B Plancher, V Janapa Reddi",
+   "venue": "The UN 7th Multistakeholder Forum on Science, Technology and Innovation for…",
+   "year": "2022",
+   "cites": 7,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:OTTXONDVkokC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Development of a TinyML based four-chamber refrigerator (TBFCR) for efficiently storing pharmaceutical products: Case Study: Pharmacies in Rwanda",
+   "authors": "J Habiyaremye, M Zennaro, C Mikeka, E Masabo",
+   "venue": "Proceedings of the 2022 14th International Conference on Machine Learning…",
+   "year": "2022",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_FM0Bhl9EiAC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Mobility-aware proactive edge caching optimization scheme in information-centric IoV networks",
+   "authors": "SS Musa, M Zennaro, M Libsie, E Pietrosemoli",
+   "venue": "Sensors 22 (4), 1387",
+   "year": "2022",
+   "cites": 50,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:86PQX7AUzd4C",
+   "areas": []
+  },
+  {
+   "title": "Risks Reduction of Rainfall-Induced Landslides-A Site-Specific Early Warning System (SSEWS)",
+   "authors": "M Kuradusenge, S Kumaran, M Zennaro, JB Minani",
+   "venue": "ICT Systems and Sustainability: Proceedings of ICT4SD 2021, Volume 1, 873-881",
+   "year": "2022",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:5qfkUJPXOUwC",
+   "areas": [
+    "weather"
+   ]
+  },
+  {
+   "title": "Optimal Localization of Internet of Things Nodes",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "Springer",
+   "year": "2022",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:FPJr55Dyh1AC",
+   "areas": []
+  },
+  {
+   "title": "TinyML in Africa: Opportunities and challenges",
+   "authors": "SO Ooko, MM Ogore, J Nsenga, M Zennaro",
+   "venue": "2021 IEEE Globecom Workshops (GC Wkshps), 1-6",
+   "year": "2021",
+   "cites": 44,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:PVjk1bu6vJQC",
+   "areas": [
+    "tinyml"
+   ]
+  },
+  {
+   "title": "Insect biodiversity in agriculture using IoT: opportunities and needs for further research",
+   "authors": "JL Zapico, F Ahlgren, M Zennaro",
+   "venue": "2021 IEEE Globecom Workshops (GC Wkshps), 1-5",
+   "year": "2021",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:hCrLmN-GePgC",
+   "areas": []
+  },
+  {
+   "title": "Enhancing the priority for the maintenance activities of the hospitals’ mechanical equipment using the fuzzy expert system",
+   "authors": "IN Mihigo, M Zennaro, A Uwitonze",
+   "venue": "International Conference on e-Infrastructure and e-Services for Developing…",
+   "year": "2021",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:GtLg2Ama23sC",
+   "areas": []
+  },
+  {
+   "title": "IoT-based hybrid optimized fuzzy threshold ELM model for localization of elderly persons",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "Expert Systems with Applications 184, 115500",
+   "year": "2021",
+   "cites": 27,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:SpbeaW3--B0C",
+   "areas": []
+  },
+  {
+   "title": "Introduction to Internet of Things",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "Optimal Localization of Internet of Things Nodes, 1-15",
+   "year": "2021",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:0N-VGjzr574C",
+   "areas": []
+  },
+  {
+   "title": "Localization approaches for internet of things",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "Optimal Localization of Internet of Things Nodes, 17-50",
+   "year": "2021",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:edDO8Oi4QzsC",
+   "areas": []
+  },
+  {
+   "title": "Optimal Network Configuration in Heterogeneous Industrial IoT",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "Optimal Localization of Internet of Things Nodes, 67-94",
+   "year": "2021",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Ug5p-4gJ2f0C",
+   "areas": []
+  },
+  {
+   "title": "IoT-Based Localization of Elderly Persons",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "Optimal Localization of Internet of Things Nodes, 95-113",
+   "year": "2021",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:XoXfffV-tXoC",
+   "areas": []
+  },
+  {
+   "title": "Node localization for smart parking systems",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "Optimal Localization of Internet of Things Nodes, 51-66",
+   "year": "2021",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ruyezt5ZtCIC",
+   "areas": []
+  },
+  {
+   "title": "Localization in Smart Applications",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "Optimal Localization of Internet of Things Nodes, 115-119",
+   "year": "2021",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:q3CdL3IzO_QC",
+   "areas": []
+  },
+  {
+   "title": "Cybersecurity through the lens of digital identity and data protection: issues and trends",
+   "authors": "MJ Sule, M Zennaro, G Thomas",
+   "venue": "Technology in Society 67, 101734",
+   "year": "2021",
+   "cites": 111,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:HbR8gkJAVGIC",
+   "areas": []
+  },
+  {
+   "title": "TAT. py: Tropospheric analysis tools in Python",
+   "authors": "M Zennaro, M Rainone, E Pietrosemoli",
+   "venue": "2021 17th International Conference on Wireless and Mobile Computing…",
+   "year": "2021",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ClCfbGk0d_YC",
+   "areas": []
+  },
+  {
+   "title": "LADEA: A software infrastructure for audio delivery and analytics",
+   "authors": "K Nakamura, D Hernandez, JM Cecilia, P Manzoni, M Zennaro, JC Cano, ...",
+   "venue": "Mobile Networks and Applications 26 (5), 2048-2054",
+   "year": "2021",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:e_rmSamDkqQC",
+   "areas": []
+  },
+  {
+   "title": "A novel enhanced quantum PSO for optimal network configuration in heterogeneous industrial IoT",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari, RA Saeed, H Alhumyani, ...",
+   "venue": "IEEE access 9, 134022-134036",
+   "year": "2021",
+   "cites": 51,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:foquWX3nUaYC",
+   "areas": []
+  },
+  {
+   "title": "Survey of localization for internet of things nodes: Approaches, challenges and open issues",
+   "authors": "S Ghorpade, M Zennaro, B Chaudhari",
+   "venue": "Future Internet 13 (8), 210",
+   "year": "2021",
+   "cites": 82,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:PoWvk5oyLR8C",
+   "areas": []
+  },
+  {
+   "title": "Enhanced differential crossover and quantum particle swarm optimization for IoT applications",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari, RA Saeed, H Alhumyani, ...",
+   "venue": "IEEE Access 9, 93831-93846",
+   "year": "2021",
+   "cites": 78,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:i2xiXl-TujoC",
+   "areas": []
+  },
+  {
+   "title": "Turbolora: Enhancing lorawan data rate via device synchronization",
+   "authors": "M Altayeb, M Zennaro, E Pietrosemoli, P Manzoni",
+   "venue": "2021 IEEE 18th Annual Consumer Communications & Networking Conference (CCNC…",
+   "year": "2021",
+   "cites": 10,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:b1wdh0AR-JQC",
+   "areas": []
+  },
+  {
+   "title": "Survey of Localization for Internet of Things Nodes: Approaches, Challenges and Open Issues. Future Internet 2021, 13, 210",
+   "authors": "S Ghorpade, M Zennaro, B Chaudhari",
+   "venue": "s Note: MDPI stays neutral with regard to jurisdictional claims in published…",
+   "year": "2021",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:HeT0ZceujKMC",
+   "areas": []
+  },
+  {
+   "title": "Research Article A Data-Driven Predictive Machine Learning Model for Efficiently Storing Temperature-Sensitive Medical Products, Such as Vaccines: Case Study: Pharmacies in Rwanda",
+   "authors": "J Habiyaremye, M Zennaro, C Mikeka, E Masabo, K Jayavel, S Kumaran",
+   "venue": "",
+   "year": "2021",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:OcBU2YAGkTUC",
+   "areas": []
+  },
+  {
+   "title": "Linee guida per redigere documento accessibile",
+   "authors": "M Zennaro, L Piccotti",
+   "venue": "Relazione Interna OGS 2021/23 CESIT 2",
+   "year": "2021",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:dBIO0h50nwkC",
+   "areas": []
+  },
+  {
+   "title": "Research Article Experimental Study of Site-Specific Soil Water Content and Rainfall Inducing Shallow Landslides: Case of Gakenke District, Rwanda",
+   "authors": "M Kuradusenge, S Kumaran, M Zennaro, A Niyonzima",
+   "venue": "",
+   "year": "2021",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:IRz6iEL74y4C",
+   "areas": [
+    "weather"
+   ]
+  },
+  {
+   "title": "Advancing toward the widespread application of low-cost technologies in coastal ocean observing (Ocean of Things).",
+   "authors": "M Marcelli, V Piermattei, R Gerin, F Brunetti, E Pietrosemoli, S Addo, ...",
+   "venue": "MEDITERRANEAN MARINE SCIENCE",
+   "year": "2021",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:8d8msizDQcsC",
+   "areas": []
+  },
+  {
+   "title": "Experimental Study of Site‐Specific Soil Water Content and Rainfall Inducing Shallow Landslides: Case of Gakenke District, Rwanda",
+   "authors": "M Kuradusenge, S Kumaran, M Zennaro, A Niyonzima",
+   "venue": "Geofluids 2021 (1), 7194988",
+   "year": "2021",
+   "cites": 11,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:xtoqd-5pKcoC",
+   "areas": [
+    "weather"
+   ]
+  },
+  {
+   "title": "A Data‐Driven Predictive Machine Learning Model for Efficiently Storing Temperature‐Sensitive Medical Products, Such as Vaccines: Case Study: Pharmacies in Rwanda",
+   "authors": "J Habiyaremye, M Zennaro, C Mikeka, E Masabo, K Jayavel, S Kumaran",
+   "venue": "Journal of Healthcare Engineering 2021 (1), 9990552",
+   "year": "2021",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:S16KYo8Pm5AC",
+   "areas": []
+  },
+  {
+   "title": "Toward the widespread application of low-cost technologies in coastal ocean observing (Internet of Things for the Ocean)",
+   "authors": "Z Sohou",
+   "venue": "Mediterranean Marine Science",
+   "year": "2021",
+   "cites": 30,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:oNZyr7d5Mn4C",
+   "areas": []
+  },
+  {
+   "title": "Towards green computing: intelligent bio-inspired agent for IoT-enabled wireless sensor networks",
+   "authors": "S Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "International Journal of Sensor Networks 35 (2), 121-131",
+   "year": "2021",
+   "cites": 37,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:M7yex6snE4oC",
+   "areas": []
+  },
+  {
+   "title": "LoRaCTP: A LoRa based Content Transfer Protocol for sustainable edge computing",
+   "authors": "K Nakamura, P Manzoni, M Zennaro, JC Cano, CT Calafate",
+   "venue": "2020 16th International Conference on Mobility, Sensing and Networking (MSN…",
+   "year": "2020",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:-FonjvnnhkoC",
+   "areas": []
+  },
+  {
+   "title": "A low cost edge computing and LoRaWAN real time video analytics for road traffic monitoring",
+   "authors": "S Seid, M Zennaro, M Libsie, E Pietrosemoli, P Manzoni",
+   "venue": "2020 16th international conference on mobility, sensing and networking (MSN…",
+   "year": "2020",
+   "cites": 27,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:WZBGuue-350C",
+   "areas": []
+  },
+  {
+   "title": "Predictive maintenance (Pdm) structure using internet of things (iot) for mechanical equipment used into hospitals in Rwanda",
+   "authors": "I Niyonambaza, M Zennaro, A Uwitonze",
+   "venue": "Future Internet 12 (12), 224",
+   "year": "2020",
+   "cites": 69,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:lmc2jWPfTJgC",
+   "areas": []
+  },
+  {
+   "title": "OPENMODS 2.0 “Instrument Jamming Meeting” report",
+   "authors": "R Gerin, F Brunetti, A Crise, E Pietrosemoli, M Zennaro, E Brodte, ...",
+   "venue": "",
+   "year": "2020",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:rmuvC79q63oC",
+   "areas": []
+  },
+  {
+   "title": "GPRS sensor node battery life span prediction based on received signal quality: Experimental study",
+   "authors": "J Habiyaremye, M Zennaro, C Mikeka, E Masabo, S Kumaran, K Jayavel",
+   "venue": "Information 11 (11), 524",
+   "year": "2020",
+   "cites": 10,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tuHXwOkdijsC",
+   "areas": []
+  },
+  {
+   "title": "Integrating an MQTT proxy in a LoRa-based messaging system for generic sensor data collection",
+   "authors": "K Nakamura, P Manzoni, M Zennaro, JC Cano, CT Calafate",
+   "venue": "International Conference on Ad-Hoc Networks and Wireless, 282-294",
+   "year": "2020",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:kuK5TVdYjLIC",
+   "areas": []
+  },
+  {
+   "title": "FUDGE: A frugal edge node for advanced IoT solutions in contexts with limited resources",
+   "authors": "K Nakamura, P Manzoni, M Zennaro, JC Cano, CT Calafate, JM Cecilia",
+   "venue": "Proceedings of the 1st Workshop on Experiences with the Design and…",
+   "year": "2020",
+   "cites": 15,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:hMsQuOkrut0C",
+   "areas": []
+  },
+  {
+   "title": "Mobile crowdsensing based road surface monitoring using smartphone vibration sensor and lorawan",
+   "authors": "S Seid, M Zennaro, M Libse, E Pietrosemoli",
+   "venue": "Proceedings of the 1st Workshop on Experiences with the Design and…",
+   "year": "2020",
+   "cites": 14,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ILKRHgRFtOwC",
+   "areas": []
+  },
+  {
+   "title": "TROPPO LoRa: TROPospheric Personal Observatory using LoRa signals",
+   "authors": "M Zennaro, E Pietrosemoli, M Rainone, D Trinchero, M Poletti, G Colucci",
+   "venue": "Proceedings of the 1st Workshop on Experiences with the Design and…",
+   "year": "2020",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Z5m8FVwuT1cC",
+   "areas": []
+  },
+  {
+   "title": "Adding voice messages to a low-cost long-range data messaging system",
+   "authors": "K Nakamura, P Manzoni, M Zennaro, JC Cano, CT Calafate",
+   "venue": "Proceedings of the 6th EAI International Conference on Smart Objects and…",
+   "year": "2020",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:TIZ-Mc8IlK0C",
+   "areas": []
+  },
+  {
+   "title": "On the Use of LoRaWAN Technology for Independent Monitoring of Unreliable Campus WIFI Networks",
+   "authors": "S Ode, J Degila, M Zennaro",
+   "venue": "Proceedings of the 6th EAI International Conference on Smart Objects and…",
+   "year": "2020",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tYavs44e6CUC",
+   "areas": []
+  },
+  {
+   "title": "Enhancing Education in the Rural Community through Online Training",
+   "authors": "MJ Sule, M Zennaro, JG Gogwim, C Onime",
+   "venue": "Proceedings of the 6th EAI International Conference on Smart Objects and…",
+   "year": "2020",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:KUbvn5osdkgC",
+   "areas": []
+  },
+  {
+   "title": "On time synchronization of LoRaWAN based IoT devices for enhanced event correlation",
+   "authors": "P Wadatkar, M Zennaro, P Manzoni",
+   "venue": "Proceedings of the 6th EAI International Conference on Smart Objects and…",
+   "year": "2020",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:g3aElNc5_aQC",
+   "areas": []
+  },
+  {
+   "title": "Rainfall-induced landslide prediction using machine learning models: The case of Ngororero District, Rwanda",
+   "authors": "M Kuradusenge, S Kumaran, M Zennaro",
+   "venue": "International journal of environmental research and public health 17 (11), 4147",
+   "year": "2020",
+   "cites": 111,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:BwyfMAYsbu0C",
+   "areas": [
+    "weather"
+   ]
+  },
+  {
+   "title": "A low-cost and low-power messaging system based on the LoRa wireless technology",
+   "authors": "AM Cardenas, MK Nakamura Pinto, E Pietrosemoli, M Zennaro, ...",
+   "venue": "Mobile networks and applications 25 (3), 961-968",
+   "year": "2020",
+   "cites": 42,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:fEOibwPWpKIC",
+   "areas": []
+  },
+  {
+   "title": "LoRa transmission over Rayleigh fading channels in presence of interference",
+   "authors": "B Chaudhari, M Zennaro",
+   "venue": "Innovations in Electronics and Communication Engineering: Proceedings of the…",
+   "year": "2020",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ML0RJ9NH7IQC",
+   "areas": []
+  },
+  {
+   "title": "LPWAN technologies for IoT and M2M applications",
+   "authors": "BS Chaudhari, M Zennaro",
+   "venue": "Academic Press",
+   "year": "2020",
+   "cites": 153,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:p__nRnzSRKYC",
+   "areas": []
+  },
+  {
+   "title": "Detecting Powerline Noise with Low-Cost Noise Sensors for Power Outage Mitigation",
+   "authors": "S Chan, I Oktavianti, P Nopphawan, M Zennaro, E Pietrosemoli, ...",
+   "venue": "2020 IEEE Sensors Applications Symposium (SAS), 1-6",
+   "year": "2020",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:gsN89kCJA0AC",
+   "areas": []
+  },
+  {
+   "title": "LPWAN technologies: Emerging application characteristics, requirements, and design considerations",
+   "authors": "BS Chaudhari, M Zennaro, S Borkar",
+   "venue": "Future Internet 12 (3), 46",
+   "year": "2020",
+   "cites": 426,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:vDijr-p_gm4C",
+   "areas": []
+  },
+  {
+   "title": "GWO model for optimal localization of IoT-enabled sensor nodes in smart parking systems",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "IEEE Transactions on Intelligent Transportation Systems 22 (2), 1217-1224",
+   "year": "2020",
+   "cites": 94,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:EkHepimYqZsC",
+   "areas": []
+  },
+  {
+   "title": "Evaluating the performance of NRENs in deploying IoT in Africa: The case for TTN",
+   "authors": "M Zennaro, C Pelsser, F Albinet, P Manzoni",
+   "venue": "2020 IEEE 17th Annual Consumer Communications & Networking Conference (CCNC…",
+   "year": "2020",
+   "cites": 9,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:zLWjf1WUPmwC",
+   "areas": []
+  },
+  {
+   "title": "The blindspot of electromagnetic interference affecting sensitive medical devices at hospitals and healthcare facilities",
+   "authors": "S Chan, M Zennaro, E Pietrosemoli, M Rainone, I Oktavianti, ...",
+   "venue": "2020 10th Annual Computing and Communication Workshop and Conference (CCWC…",
+   "year": "2020",
+   "cites": 10,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:uWiczbcajpAC",
+   "areas": []
+  },
+  {
+   "title": "TROPPO LoRa",
+   "authors": "M Zennaro, E Pietrosemoli, M Rainone, D Trinchero, M Poletti, G Colucci",
+   "venue": "Proceedings of the 1st Workshop on Experiences with the Design and…",
+   "year": "2020",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:cK4Rrx0J3m0C",
+   "areas": []
+  },
+  {
+   "title": "Introduction to low-power wide-area networks",
+   "authors": "BS Chaudhari, M Zennaro",
+   "venue": "LPWAN Technologies for IoT and M2M Applications, 1-13",
+   "year": "2020",
+   "cites": 33,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:BUYA1_V_uYcC",
+   "areas": []
+  },
+  {
+   "title": "TV white spaces for low-power wide-area networks",
+   "authors": "A Askhedkar, B Chaudhari, M Zennaro, E Pietrosemoli",
+   "venue": "LPWAN technologies for IoT and M2M applications, 167-179",
+   "year": "2020",
+   "cites": 9,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:AvfA0Oy_GE0C",
+   "areas": []
+  },
+  {
+   "title": "Hardware and software platforms for low-power wide-area networks",
+   "authors": "A Askhedkar, B Chaudhari, M Zennaro",
+   "venue": "LPWAN technologies for IoT and M2M applications, 397-407",
+   "year": "2020",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:URolC5Kub84C",
+   "areas": []
+  },
+  {
+   "title": "A LoRaWAN Coverage Testbed and a Multi-optional Communication Architecture for Smart City Feasibility in Developing Countries",
+   "authors": "PA Barro, M Zennaro, J Degila",
+   "venue": "International Conference on e-Infrastructure and e-Services for Developing…",
+   "year": "2019",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:epqYDVWIO7EC",
+   "areas": []
+  },
+  {
+   "title": "Binary grey wolf optimisation‐based topology control for WSNs",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "IET Wireless Sensor Systems 9 (6), 333-339",
+   "year": "2019",
+   "cites": 29,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:XD-gHx7UXLsC",
+   "areas": []
+  },
+  {
+   "title": "On extending the wireless communications range of weather stations using LoRaWAN",
+   "authors": "E Pietrosemoli, M Rainone, M Zennaro",
+   "venue": "Proceedings of the 5th EAI International Conference on Smart Objects and…",
+   "year": "2019",
+   "cites": 17,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:uJ-U7cs_P_0C",
+   "areas": [
+    "weather"
+   ]
+  },
+  {
+   "title": "Impact of interference on LoRaWAN link performance",
+   "authors": "PV Wadatkar, BS Chaudhari, M Zennaro",
+   "venue": "2019 5th International Conference On Computing, Communication, Control And…",
+   "year": "2019",
+   "cites": 16,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:L7CI7m0gUJcC",
+   "areas": []
+  },
+  {
+   "title": "TLTN–The local things network: on the design of a LoRaWAN gateway with autonomous servers for disconnected communities",
+   "authors": "PA Barro, M Zennaro, E Pietrosemoli",
+   "venue": "2019 Wireless Days (WD), 1-4",
+   "year": "2019",
+   "cites": 40,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:VLnqNzywnoUC",
+   "areas": []
+  },
+  {
+   "title": "A smart cities LoRaWAN network based on autonomous base stations (BS) for some countries with limited internet access",
+   "authors": "PA Barro, M Zennaro, J Degila, E Pietrosemoli",
+   "venue": "Future Internet 11 (4), 93",
+   "year": "2019",
+   "cites": 35,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:j8SEvjWlNXcC",
+   "areas": []
+  },
+  {
+   "title": "Middleware for Mobile and Pervasive Services",
+   "authors": "BB ANTOINE, KD MIESO, M Zennaro",
+   "venue": "Handbook of Mobile Systems Applications and Services, 261-286",
+   "year": "2019",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:R3hNpaxXUhUC",
+   "areas": []
+  },
+  {
+   "title": "Evaluation of IoT gateways for developing communities: smart Maputo",
+   "authors": "S David, E Pietrosimoli, M Zennaro",
+   "venue": "Proceedings of the Tenth International Conference on Information and…",
+   "year": "2019",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:7T2F9Uy0os0C",
+   "areas": []
+  },
+  {
+   "title": "Procedure per l'attivazione di account per l'accesso ai servizi informatici dell’ente",
+   "authors": "M Zennaro",
+   "venue": "Relazione Interna OGS 2019/65 CESIT 2",
+   "year": "2019",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:QYdC8u9Cj1oC",
+   "areas": []
+  },
+  {
+   "title": "OpenMODs project: advancing toward the widespread application of low-cost technologies in coastal ocean observing",
+   "authors": "M Marcelli, J Rick, S Sarker, Z Sohou, M Zennaro, K Whiltshire, A Crise, ...",
+   "venue": "",
+   "year": "2019",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:9Nmd_mFXekcC",
+   "areas": []
+  },
+  {
+   "title": "A LoRa enabled sustainable messaging system for isolated communities",
+   "authors": "AM Cardenas, MKN Pinto, E Pietrosemoli, M Zennaro, M Rainone, ...",
+   "venue": "Proceedings of the 4th EAI International Conference on Smart Objects and…",
+   "year": "2018",
+   "cites": 7,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:NJ774b8OgUMC",
+   "areas": []
+  },
+  {
+   "title": "Towards smart and sustainable future cities based on Internet of things for developing countries: What approach for Africa",
+   "authors": "PA Barro, J Degila, M Zennaro, SF Wamba",
+   "venue": "EAI Endorsed Trans. Internet Things 4 (8)",
+   "year": "2018",
+   "cites": 22,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tKAzc9rXhukC",
+   "areas": []
+  },
+  {
+   "title": "Experimental study of LoRa transmission over seawater",
+   "authors": "N Jovalekic, V Drndarevic, E Pietrosemoli, I Darby, M Zennaro",
+   "venue": "Sensors 18 (9), 2853",
+   "year": "2018",
+   "cites": 87,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:uLbwQdceFCQC",
+   "areas": []
+  },
+  {
+   "title": "Image location through large object detection",
+   "authors": "CL Robinson, A Narayanaswamy, M Zennaro",
+   "venue": "US Patent 10,037,469",
+   "year": "2018",
+   "cites": 15,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:4fKUyHm3Qg0C",
+   "areas": []
+  },
+  {
+   "title": "LoRa transceiver with improved characteristics",
+   "authors": "N Jovalekic, V Drndarevic, I Darby, M Zennaro, E Pietrosemoli, F Ricciato",
+   "venue": "IEEE Wireless Communications Letters 7 (6), 1058-1061",
+   "year": "2018",
+   "cites": 36,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:JQOojiI6XY0C",
+   "areas": []
+  },
+  {
+   "title": "The Co-Regulation of TV-White Spaces: The Southern Africa Development Community Approach",
+   "authors": "S David, A Muchanga, M Zennaro",
+   "venue": "International Conference on Cross-Cultural Design, 286-297",
+   "year": "2018",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:hkOj_22Ku90C",
+   "areas": []
+  },
+  {
+   "title": "On the design of a sustainable ocean drifter for developing countries",
+   "authors": "R Gerin, M Zennaro, M Rainone, E Pietrosemoli, P PM, A Crise",
+   "venue": "EAI Endorsed Transactions on Internet of Things",
+   "year": "2018",
+   "cites": 9,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:nrtMV_XWKgEC",
+   "areas": []
+  },
+  {
+   "title": "Capacity building initiatives in IoT in developing countries: lessons learned and way forward",
+   "authors": "M Zennaro, S Kumaran, S Hansen",
+   "venue": "Capacity Building in a Changing ICT Environment, 29-36",
+   "year": "2018",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:W5xh706n7nkC",
+   "areas": []
+  },
+  {
+   "title": "Smart and very distant objects",
+   "authors": "N Jovalekic, E Pietrosemoli, M Rainone, M Zennaro",
+   "venue": "Proceedings of the 3rd Workshop on Experiences with the Design and…",
+   "year": "2017",
+   "cites": 11,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ZuybSZzF8UAC",
+   "areas": []
+  },
+  {
+   "title": "Alternative networks: Toward global access to the internet for all",
+   "authors": "J Saldana, A Arcia-Moret, A Sathiaseelan, B Braem, E Pietrosemoli, ...",
+   "venue": "IEEE Communications Magazine 55 (9), 187-193",
+   "year": "2017",
+   "cites": 33,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:eq2jaN3J8jMC",
+   "areas": []
+  },
+  {
+   "title": "Evaluating the use of sub-gigahertz wireless technologies to improve message delivery in opportunistic networks",
+   "authors": "J Herrera-Tapia, E Hernández-Orallo, A Tomás, CT Calafate, JC Cano, ...",
+   "venue": "2017 IEEE 14th International Conference on Networking, Sensing and Control…",
+   "year": "2017",
+   "cites": 22,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:9vf0nzSNQJEC",
+   "areas": [
+    "dtn"
+   ]
+  },
+  {
+   "title": "A disruption tolerant architecture based on MQTT for IoT applications",
+   "authors": "JE Luzuriaga, M Zennaro, JC Cano, C Calafate, P Manzoni",
+   "venue": "2017 14th IEEE Annual Consumer Communications & Networking Conference (CCNC…",
+   "year": "2017",
+   "cites": 34,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:WqliGbK-hY8C",
+   "areas": [
+    "dtn"
+   ]
+  },
+  {
+   "title": "Introduction to the Internet of Things",
+   "authors": "M Zennaro",
+   "venue": "Telecommunication and ICT4D Lab, The Abdus Salam International Centre for…",
+   "year": "2017",
+   "cites": 26,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:4MWp96NkSFoC",
+   "areas": []
+  },
+  {
+   "title": "Radio link planning made easy with a telegram bot",
+   "authors": "M Zennaro, M Rainone, E Pietrosemoli",
+   "venue": "International Conference on Smart Objects and Technologies for Social Good…",
+   "year": "2016",
+   "cites": 26,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:WA5NYHcadZ8C",
+   "areas": []
+  },
+  {
+   "title": "Cloud based patient prioritization as service in public health care",
+   "authors": "A Bagula, C Lubamba, M Mandava, H Bagula, M Zennaro, E Pietrosemoli",
+   "venue": "2016 ITU Kaleidoscope: ICTs for a Sustainable World (ITU WT), 1-8",
+   "year": "2016",
+   "cites": 51,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:eMMeJKvmdy0C",
+   "areas": []
+  },
+  {
+   "title": "Alternative Network Deployments: Taxonomy, Characterization, Technologies, and Architectures",
+   "authors": "J Saldana, A Arcia-Moret, B Braem, E Pietrosemoli, A Sathiaseelan, ...",
+   "venue": "",
+   "year": "2016",
+   "cites": 20,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:8AbLer7MMksC",
+   "areas": []
+  },
+  {
+   "title": "Open and regionalised spectrum repositories for emerging countries",
+   "authors": "AA Moret, A Sathiaseelan, M Zenaro, F Rondón, E Pietrosemoli, ...",
+   "venue": "Proceedings of the 2016 workshop on Global Access to the Internet for All, 13-18",
+   "year": "2016",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:5ugPr518TE4C",
+   "areas": []
+  },
+  {
+   "title": "RFC 7962: Alternative Network Deployments: Taxonomy, Characterization, Technologies, and Architectures",
+   "authors": "A Arcia-Moret, B Braem, E Pietrosemoli, A Sathiaseelan, M Zennaro",
+   "venue": "RFC Editor",
+   "year": "2016",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:fFSKOagxvKUC",
+   "areas": []
+  },
+  {
+   "title": "Internet Research Task Force (IRTF) J. Saldana, Ed. Request for Comments: 7962 University of Zaragoza Category: Informational A. Arcia-Moret",
+   "authors": "B Braem, E Pietrosemoli, A Sathiaseelan, M Zennaro, AN Deployments",
+   "venue": "",
+   "year": "2016",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:MLfJN-KU85MC",
+   "areas": []
+  },
+  {
+   "title": "Global Access to the Internet for All J. Saldana, Ed. Internet-Draft University of Zaragoza Intended status: Informational A. Arcia-Moret Expires: January 18, 2017 University …",
+   "authors": "B Braem, E Pietrosemoli, A Sathiaseelan, M Zennaro",
+   "venue": "",
+   "year": "2016",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tzM49s52ZIMC",
+   "areas": []
+  },
+  {
+   "title": "Wireless technologies for development [guest editorial]",
+   "authors": "J Qadir, A Sathiaseelan, M Zennaro, A Wolisz, SN Bhatti, K Govindan",
+   "venue": "IEEE Communications Magazine 54 (7), 18-19",
+   "year": "2016",
+   "cites": 6,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:1qzjygNMrQYC",
+   "areas": []
+  },
+  {
+   "title": "Improving Spectrum Sensing as a Method for White Space Identification through Design Principles",
+   "authors": "H Mauwa, A Bagula, M Zennaro",
+   "venue": "Journal of ICT Standardization, 177-200",
+   "year": "2016",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:olpn-zPbct0C",
+   "areas": []
+  },
+  {
+   "title": "RFTrack: a tool for efficient spectrum usage advocacy in Developing Countries",
+   "authors": "M Rainone, M Zennaro, E Pietrosemoli",
+   "venue": "Proceedings of the Eighth International Conference on Information and…",
+   "year": "2016",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:kRWSkSYxWN8C",
+   "areas": []
+  },
+  {
+   "title": "Enabling the Internet of Things in developing countries: Opportunities and challenges",
+   "authors": "MNS Miazi, Z Erasmus, MA Razzaque, M Zennaro, A Bagula",
+   "venue": "2016 5th International Conference on Informatics, Electronics and Vision…",
+   "year": "2016",
+   "cites": 93,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:wbdj-CoPYUoC",
+   "areas": []
+  },
+  {
+   "title": "RFTrack",
+   "authors": "M Rainone, M Zennaro",
+   "venue": "Proceedings of the Eighth International Conference on Information and…",
+   "year": "2016",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:7Hz3ACDFbsoC",
+   "areas": []
+  },
+  {
+   "title": "Progettazione e realizzazione del sistema Wireless di accesso alle sedi dell'OGS",
+   "authors": "P Vascotto, A Raimondi, S Tinonin, M Zennaro",
+   "venue": "Relazione Interna OGS 2016/94 CESIT 4",
+   "year": "2016",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:cWzG1nlazyYC",
+   "areas": []
+  },
+  {
+   "title": "Internet of Things in 5 days",
+   "authors": "AL Colina, A Vives, A Bagula, M Zennaro, E Pietrosemoli",
+   "venue": "Autoedición",
+   "year": "2016",
+   "cites": 15,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:mlAyqtXpCwEC",
+   "areas": []
+  },
+  {
+   "title": "Evaluando un escenario de pruebas para el IoT entre la emulación y el uso de dispositivos reales",
+   "authors": "JE Luzuriaga, M Zennaro, JC Cano, C Calafate, P Manzoni",
+   "venue": "Actas Jornadas Sarteco, 441-445",
+   "year": "2016",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:N5tVd3kTz84C",
+   "areas": []
+  },
+  {
+   "title": "Systematic analysis of geo-location and spectrum sensing as access methods to TV white space",
+   "authors": "H Mauwa, A Bagula, M Zennaro, E Pietrosemoli, A Lysko, TX Brown",
+   "venue": "Journal of ICT Standardization 4 (2), 147-176",
+   "year": "2016",
+   "cites": 12,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_B80troHkn4C",
+   "areas": []
+  },
+  {
+   "title": "Exploring tv white spaces for use in campus networks",
+   "authors": "H Mauwa, A Bagula, M Zennaro",
+   "venue": "International Conference on e-Infrastructure and e-Services for Developing…",
+   "year": "2015",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:fQNAKQ3IYiAC",
+   "areas": []
+  },
+  {
+   "title": "Energy-efficient Internet of Things monitoring with low-capacity devices",
+   "authors": "RJ Carbajales, M Zennaro, E Pietrosemoli, F Freitag",
+   "venue": "2015 IEEE 2nd World Forum on Internet of Things (WF-IoT), 305-310",
+   "year": "2015",
+   "cites": 17,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:5Ul4iDaHHb8C",
+   "areas": []
+  },
+  {
+   "title": "WHITENET: A white space network for campus connectivity using spectrum sensing design principles",
+   "authors": "H Mauwa, A Bagula, M Zennaro",
+   "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015), 1-8",
+   "year": "2015",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:LPZeul_q3PIC",
+   "areas": []
+  },
+  {
+   "title": "Rftrack: Tvws spectrum measurements using android phones",
+   "authors": "M Rainone, M Zennaro, E Pietrosemoli",
+   "venue": "Proceedings of the 2015 Annual Symposium on Computing for Development, 67-68",
+   "year": "2015",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:geHnlv5EZngC",
+   "areas": []
+  },
+  {
+   "title": "Global Access to the Internet for All J. Saldana, Ed. Internet-Draft University of Zaragoza Intended status: Informational A. Arcia-Moret Expires: May 16, 2016 University of …",
+   "authors": "B Braem, E Pietrosemoli, A Sathiaseelan, M Zennaro",
+   "venue": "",
+   "year": "2015",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:35r97b3x0nAC",
+   "areas": []
+  },
+  {
+   "title": "The Internet@ rural: why not TV-White spaces in Mozambique",
+   "authors": "S David, M Zennaro, A Muchanga",
+   "venue": "Privilege, Information, Knowledge and Power: An Endless Dilemma 7, 28",
+   "year": "2015",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:mvPsJ3kp5DgC",
+   "areas": []
+  },
+  {
+   "title": "Iot for development (IoT4D)",
+   "authors": "M Zennaro, A Bagula",
+   "venue": "IEEE IoT Newsletter 14",
+   "year": "2015",
+   "cites": 11,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tS2w5q8j5-wC",
+   "areas": []
+  },
+  {
+   "title": "System and method for updating geographic data",
+   "authors": "M Zennaro, L Vincent, K man Cheung, D Abraham",
+   "venue": "US Patent 9,076,061",
+   "year": "2015",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Tiz5es2fbqcC",
+   "areas": []
+  },
+  {
+   "title": "Global Access to the Internet for All J. Saldana, Ed. Internet-Draft University of Zaragoza Intended status: Informational A. Arcia-Moret Expires: January 2, 2016 University of …",
+   "authors": "B Braem, E Pietrosemoli, A Sathiaseelan, M Zennaro",
+   "venue": "",
+   "year": "2015",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_Re3VWB3Y0AC",
+   "areas": []
+  },
+  {
+   "title": "On the design of smart parking networks in the smart cities: An optimal sensor placement model",
+   "authors": "A Bagula, L Castelli, M Zennaro",
+   "venue": "Sensors 15 (7), 15443-15467",
+   "year": "2015",
+   "cites": 214,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tOudhMTPpwUC",
+   "areas": []
+  },
+  {
+   "title": "On the impact of propagation models on TV white spaces measurements in Africa",
+   "authors": "H Mauwa, AB Bagula, M Zennaro, GA Lusilao-Zodi",
+   "venue": "2015 International Conference on Emerging Trends in Networks and Computer…",
+   "year": "2015",
+   "cites": 17,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:K3LRdlH-MEoC",
+   "areas": []
+  },
+  {
+   "title": "The cloudy distribution in community network clouds in Guifi. net",
+   "authors": "R Baig, R Carbajales, P Escrich, J Florit, F Freitag, A Moll, L Navarro, ...",
+   "venue": "2015 IFIP/IEEE International Symposium on Integrated Network Management (IM…",
+   "year": "2015",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:vRqMK49ujn8C",
+   "areas": []
+  },
+  {
+   "title": "Deploying clouds in the Guifi community network",
+   "authors": "R Baig, J Dowling, P Escrich, F Freitag, R Meseguer, A Moll, L Navarro, ...",
+   "venue": "2015 IFIP/IEEE International Symposium on Integrated Network Management (IM…",
+   "year": "2015",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:08ZZubdj9fEC",
+   "areas": []
+  },
+  {
+   "title": "On the scalability of constructive interference in low-power wireless networks",
+   "authors": "C Noda, CM Pérez-Penichet, B Seeber, M Zennaro, M Alves, A Moreira",
+   "venue": "European Conference on Wireless Sensor Networks, 250-257",
+   "year": "2015",
+   "cites": 16,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:P5F9QuxV20EC",
+   "areas": []
+  },
+  {
+   "title": "Global Access to the Internet for All J. Saldana, Ed. Internet-Draft University of Zaragoza Intended status: Informational A. Arcia-Moret Expires: July 25, 2015 Universidad de …",
+   "authors": "B Braem, L Navarro, E Pietrosemoli, C Rey-Moreno, A Sathiaseelan, ...",
+   "venue": "",
+   "year": "2015",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:-_dYPAW6P2MC",
+   "areas": []
+  },
+  {
+   "title": "On real-time performance evaluation of volcano-monitoring systems with wireless sensor networks",
+   "authors": "R Lara, D Benitez, A Caamano, M Zennaro, JL Rojo-Alvarez",
+   "venue": "IEEE Sensors Journal 15 (6), 3514-3523",
+   "year": "2015",
+   "cites": 81,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:WbkHhVStYXYC",
+   "areas": []
+  },
+  {
+   "title": "Internet of Things (IoT) in 5 Days: an easy guide to Wireless Sensor Networks (WSN), IPv6, and IoT",
+   "authors": "AL Colina, A Vives, A Bagula, E Pietrosemoli, M Zennaro",
+   "venue": "Packt Publishing",
+   "year": "2015",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:t7zJ5fGR-2UC",
+   "areas": []
+  },
+  {
+   "title": "Architecting a low cost television white space network for developing regions",
+   "authors": "M Zennaro, E Pietrosemoli, A Sathiaseelan",
+   "venue": "Proceedings of the Fifth ACM Symposium on Computing for Development, 113-114",
+   "year": "2014",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:CHSYGLWDkRkC",
+   "areas": []
+  },
+  {
+   "title": "A survey of TV white space measurements",
+   "authors": "TX Brown, E Pietrosemoli, M Zennaro, A Bagula, H Mauwa, SM Nleya",
+   "venue": "International Conference on e-Infrastructure and e-Services for Developing…",
+   "year": "2014",
+   "cites": 55,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:XiSMed-E-HIC",
+   "areas": []
+  },
+  {
+   "title": "Performance evaluation of a volcano monitoring system using wireless sensor networks",
+   "authors": "R Lara-Cueva, D Benítez, A Caamano, M Zennaro, JL Rojo-Alvarez",
+   "venue": "2014 IEEE Latin-America Conference on Communications (LATINCOM), 1-6",
+   "year": "2014",
+   "cites": 15,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:p2g8aNsByqUC",
+   "areas": []
+  },
+  {
+   "title": "Global Access to the Internet for All J. Saldana, Ed. Internet-Draft University of Zaragoza Intended status: Informational A. Arcia-Moret Expires: April 9, 2015 Universidad de …",
+   "authors": "B Braem, L Navarro, E Pietrosemoli, EL de Redes, C Rey-Moreno, ...",
+   "venue": "",
+   "year": "2014",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:2KloaMYe4IUC",
+   "areas": []
+  },
+  {
+   "title": "A Low Cost Implementation of an Existing Hands-on Laboratory Experiment in Electronic Engineering.",
+   "authors": "CEO Onime, M Zennaro, J Uhomoibhi",
+   "venue": "Int. J. Eng. Pedagog. 4 (4), 4-7",
+   "year": "2014",
+   "cites": 11,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:NhqRSupF_l8C",
+   "areas": []
+  },
+  {
+   "title": "Global access to the internet for all j. saldana, ed. internet-draft university of zaragoza intended status: Informational a. arcia-moret expires: December 20, 2014 universidad …",
+   "authors": "B Braem, L Navarro, E Pietrosemoli, EL de Redes, C Rey-Moreno, ...",
+   "venue": "Internet-Draft, 2014",
+   "year": "2014",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_xSYboBqXhAC",
+   "areas": []
+  },
+  {
+   "title": "A non-cooperative TV white space broadband market model for rural entrepreneurs",
+   "authors": "SM Nleya, A Bagula, M Zennaro, E Pietrosemoli",
+   "venue": "Proceedings of the 2014 ITU kaleidoscope academic conference: Living in a…",
+   "year": "2014",
+   "cites": 7,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:EUQCXRtRnyEC",
+   "areas": []
+  },
+  {
+   "title": "Link budget calculation",
+   "authors": "E Pietrosemoli, M Zennaro",
+   "venue": "School on Applications of Open Spectrum and White Spaces Technologies…",
+   "year": "2014",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:6ZxmRoH8BuwC",
+   "areas": []
+  },
+  {
+   "title": "Ubiquitous Wireless Sensor Networks for Environmental Monitoring in the Western Himalayan Region of India",
+   "authors": "D Sharma, V Kumar, M Zennaro",
+   "venue": "International Journal 4 (3)",
+   "year": "2014",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:a0OBvERweLwC",
+   "areas": []
+  },
+  {
+   "title": "Demonstration of a low cost implementation of an existing hands-on laboratory experiment in electronic engineering",
+   "authors": "C Onime, J Uhomoibhi, M Zennaro",
+   "venue": "2014 11th International Conference on Remote Engineering and Virtual…",
+   "year": "2014",
+   "cites": 12,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:abG-DnoFyZgC",
+   "areas": []
+  },
+  {
+   "title": "EyApp & AndrEyA–Free apps for the automated recording of lessons by students",
+   "authors": "E Canessa, C Fonda, L Tenze, M Zennaro",
+   "venue": "International Journal of Emerging Technologies in Learning (iJET) 9 (1), 31-34",
+   "year": "2014",
+   "cites": 9,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:yD5IFk8b50cC",
+   "areas": []
+  },
+  {
+   "title": "6.4 Community Networks",
+   "authors": "L Navarro, RL Cigno, L Maccari, R Baigl",
+   "venue": "Towards an Affordable Internet Access for Everyone: The Quest for Enabling…",
+   "year": "2014",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:VOx2b1Wkg3QC",
+   "areas": []
+  },
+  {
+   "title": "Optimisation of a TV white space broadband market model for rural entrepreneurs",
+   "authors": "E Pietrosemoli",
+   "venue": "Journal of ICT Standardization",
+   "year": "2014",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:1sJd4Hv_s6UC",
+   "areas": []
+  },
+  {
+   "title": "BLOP: Broadband Link to an Offshore Platform in the Venice Lagoon",
+   "authors": "E Pietrosemoli, M Zennaro, M Bastianini, T Minuzzo",
+   "venue": "ExtremeCom 2014",
+   "year": "2014",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:b0M2c_1WBrUC",
+   "areas": []
+  },
+  {
+   "title": "Preliminary performance assessment of TV white spaces technology for broadband communication in Malawi",
+   "authors": "C Mikeka, JS Mlatho, M Thodi, J Pinifolo, D Kondwani, L Momba, ...",
+   "venue": "Procedia Engineering 78, 149-154",
+   "year": "2014",
+   "cites": 18,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:pyW8ca7W8N0C",
+   "areas": []
+  },
+  {
+   "title": "Malawi television white spaces (TVWS) pilot network performance analysis",
+   "authors": "C Mikeka, M Thodi, JSP Mlatho, J Pinifolo, D Kondwani, L Momba, ...",
+   "venue": "Journal of Wireless Networking and Communications 4 (1), 26-32",
+   "year": "2014",
+   "cites": 35,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:D03iK_w7-QYC",
+   "areas": []
+  },
+  {
+   "title": "TV white spaces, I presume? the quest for TVWS in Malawi and Zambia",
+   "authors": "M Zennaro, E Pietrosemoli, A Arcia-Moret, C Mikeka, J Pinifolo, C Wang, ...",
+   "venue": "Proceedings of the Sixth International Conference on Information and…",
+   "year": "2013",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:u_35RYKgDlwC",
+   "areas": []
+  },
+  {
+   "title": "A TV white space broadband market model for rural entrepreneurs",
+   "authors": "SM Nleya, A Bagula, M Zennaro, E Pietrosemoli",
+   "venue": "Global Information Infrastructure Symposium-GIIS 2013, 1-6",
+   "year": "2013",
+   "cites": 10,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:3s1wT3WcHBgC",
+   "areas": []
+  },
+  {
+   "title": "Supporting cloud deployment in the Guifi. net community network",
+   "authors": "J Jiménez, R Baig, P Escrich, AM Khan, F Freitag, L Navarro, ...",
+   "venue": "Global Information Infrastructure Symposium-GIIS 2013, 1-3",
+   "year": "2013",
+   "cites": 34,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:SeFeTyx0c_EC",
+   "areas": []
+  },
+  {
+   "title": "Whisppi: White space monitoring with raspberry pi",
+   "authors": "A Arcia-Moret, E Pietrosemoli, M Zennaro",
+   "venue": "Global Information Infrastructure Symposium-GIIS 2013, 1-6",
+   "year": "2013",
+   "cites": 18,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:HoB7MX3m0LUC",
+   "areas": []
+  },
+  {
+   "title": "An assessment study on white spaces in Malawi using affordable tools",
+   "authors": "M Zennaro, E Pietrosemoli, JSP Mlatho, M Thodi, C Mikeka",
+   "venue": "2013 IEEE Global Humanitarian Technology Conference (GHTC), 265-269",
+   "year": "2013",
+   "cites": 28,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:pqnbT2bcN3wC",
+   "areas": []
+  },
+  {
+   "title": "Redes inalámbricas en los países en desarrollo",
+   "authors": "J Butler, E Pietrosemoli, M Zennaro, C Fonda, S Okay, C Aichele, ...",
+   "venue": "The WNDW Project",
+   "year": "2013",
+   "cites": 30,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tkaPQYYpVKoC",
+   "areas": []
+  },
+  {
+   "title": "Successful deployment of a wireless sensor network for precision agriculture in Malawi",
+   "authors": "M Mafuta, M Zennaro, A Bagula, G Ault, H Gombachika, T Chadza",
+   "venue": "International Journal of Distributed Sensor Networks 9 (5), 150703",
+   "year": "2013",
+   "cites": 188,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_Qo2XoVZTnwC",
+   "areas": []
+  },
+  {
+   "title": "Low-cost 3D printing for science, education and sustainable development",
+   "authors": "E Canessa, C Fonda, M Zennaro, N Deadline",
+   "venue": "Low-Cost 3D Printing 11 (1)",
+   "year": "2013",
+   "cites": 296,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:cFHS6HbyZ2cC",
+   "areas": []
+  },
+  {
+   "title": "Low-Cost 3D Printing for Science",
+   "authors": "E Canessa, C Fonda, M Zennaro, N Deadline",
+   "venue": "Education & Sustainable Development, 75-78",
+   "year": "2013",
+   "cites": 51,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:LgRImbQfgY4C",
+   "areas": []
+  },
+  {
+   "title": "3d modeling with openscad-part 1",
+   "authors": "S Büttrich, E Canessa, C Fonda, M Zennaro",
+   "venue": "Low-Cost 3D Printing, 83",
+   "year": "2013",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:3htObqc8RwsC",
+   "areas": []
+  },
+  {
+   "title": "Tv white spaces: A pragmatic approach",
+   "authors": "M Zennaro, E Pietrosemoli",
+   "venue": "e Abdus Salam International Centre for eoretical Physics",
+   "year": "2013",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:mNrWkgRL2YcC",
+   "areas": []
+  },
+  {
+   "title": "Research Article Successful Deployment of a Wireless Sensor Network for Precision Agriculture in Malawi",
+   "authors": "M Mafuta, M Zennaro, A Bagula, G Ault, H Gombachika, T Chadza",
+   "venue": "",
+   "year": "2013",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:WJVC3Jt7v1AC",
+   "areas": []
+  },
+  {
+   "title": "Wireless networking in the developing world",
+   "authors": "J Butler, E Pietrosemoli, M Zennaro, C Fonda, S Okay, C Aichele, ...",
+   "venue": "",
+   "year": "2013",
+   "cites": 42,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_axFR9aDTf0C",
+   "areas": []
+  },
+  {
+   "title": "Prehistoric collections and 3D printing for education",
+   "authors": "L Leakey, T Dzambazova, E Canessa, C Fonda, M Zennaro",
+   "venue": "Low-cost 3d printing for Science, Education and Sustainable Development, 159-162",
+   "year": "2013",
+   "cites": 16,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:EYYDruWGBe4C",
+   "areas": []
+  },
+  {
+   "title": "Regulatory issues for TV white spaces",
+   "authors": "R Strużak, D Więcek, E Pietrosemoli, M Zennaro",
+   "venue": "Ermanno Pietrosemoli and Marco Zennaro (Trieste: Abdus Salam International…",
+   "year": "2013",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:z_wVstp3MssC",
+   "areas": []
+  },
+  {
+   "title": "Cognitive Radio and Africa",
+   "authors": "LE Doyle, P Pietrosemoli, M Zennaro",
+   "venue": "Ermanno Pietrosemoli and Marco Zennaro (Trieste: Abdus Salam International…",
+   "year": "2013",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:5awf1xo2G04C",
+   "areas": []
+  },
+  {
+   "title": "Large scale 3D printing: From deep sea to the moon",
+   "authors": "V Colla, E Dini, E Canessa, C Fonda, M Zennaro",
+   "venue": "Low-cost 3D printing, for science, education & sustainable development, 127-132",
+   "year": "2013",
+   "cites": 56,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:PELIpwtuRlgC",
+   "areas": []
+  },
+  {
+   "title": "Towards a new volcano monitoring system using wireless sensor networks",
+   "authors": "R Lara, A Caamano, M Zennaro, JL Rojo-Alvarez",
+   "venue": "Intelligent Sensors Sensor Networks and Information Processing (ISSNIP)",
+   "year": "2013",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:738O_yMBCRsC",
+   "areas": []
+  },
+  {
+   "title": "Mitigation of Rain-Induced Ka-Band Attenuation and Enhancement of Communications Resiliency in Sub-Saharan Africa",
+   "authors": "S Sala, M Zennaro, L Sokol, A Miao, R Spousta, S Chan",
+   "venue": "",
+   "year": "2013",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:f2IySw72cVMC",
+   "areas": []
+  },
+  {
+   "title": "TV White Spaces, I presume?",
+   "authors": "M Zennaro, E Pietrosemoli, A Arcia-Moret, C Mikeka, J Pinifolo, C Wang, ...",
+   "venue": "proceedings of the Sixth International Conference on Information and…",
+   "year": "2013",
+   "cites": 6,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ZHo1McVdvXMC",
+   "areas": []
+  },
+  {
+   "title": "Apps for synchronized photo-audio recordings to support students",
+   "authors": "E Canessa, C Fonda, L Tenze, M Zennaro",
+   "venue": "Proceedings of LAK 2013. Workshop on Analytics on Video-based Learning, 29-33",
+   "year": "2013",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:35N4QoGY0k4C",
+   "areas": []
+  },
+  {
+   "title": "Educating on wireless solutions for environmental monitoring",
+   "authors": "S Radicella, R Strużak, M Zennaro",
+   "venue": "Journal of Telecommunications and Information Technology, 78-82",
+   "year": "2012",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:dfsIfKJdRG4C",
+   "areas": []
+  },
+  {
+   "title": "Low cost carrier independent telecommunications infrastructure",
+   "authors": "E Pietrosemoli, M Zennaro, C Fonda",
+   "venue": "2012 Global Information Infrastructure and Networking Symposium (GIIS), 1-4",
+   "year": "2012",
+   "cites": 9,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:NaGl4SEjCO4C",
+   "areas": []
+  },
+  {
+   "title": "From training to projects: Wireless sensor networks in Africa",
+   "authors": "M Zennaro, A Bagula, M Nkoloma",
+   "venue": "2012 IEEE Global Humanitarian Technology Conference, 417-422",
+   "year": "2012",
+   "cites": 10,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:j3f4tGmQtD8C",
+   "areas": []
+  },
+  {
+   "title": "On the relevance of using affordable tools for white spaces identification",
+   "authors": "M Zennaro, E Pietrosemoli, A Bagula, S Nleya",
+   "venue": "2012 IEEE 8th International Conference on Wireless and Mobile Computing…",
+   "year": "2012",
+   "cites": 19,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:RHpTSmoSYBkC",
+   "areas": []
+  },
+  {
+   "title": "On-line certification for all: the Pinvox algorithm",
+   "authors": "E Canessa, C Fonda, M Zennaro",
+   "venue": "International Journal of Emerging Technologies in Learning (iJET) 7 (3), 43-45",
+   "year": "2012",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:e5wmG9Sq2KIC",
+   "areas": []
+  },
+  {
+   "title": "A platform to integrate climate information and rural telemedicine in Malawi",
+   "authors": "R Lowe, T Chadza, J Chirombo, C Fonda, A Muyepa, M Nkoloma, ...",
+   "venue": "EGU General Assembly Conference Abstracts, 9503",
+   "year": "2012",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:TQgYirikUcIC",
+   "areas": []
+  },
+  {
+   "title": "Ubiquitous sensor networking for development (usn4d): An application to pollution monitoring",
+   "authors": "A Bagula, M Zennaro, G Inggs, S Scott, D Gascon",
+   "venue": "Sensors 12 (1), 391-414",
+   "year": "2012",
+   "cites": 97,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:IWHjjKOFINEC",
+   "areas": []
+  },
+  {
+   "title": "Introduction to wireless sensor networks",
+   "authors": "M Zennaro, I Trieste-Italy",
+   "venue": "2012",
+   "year": "2012",
+   "cites": 17,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:KxtntwgDAa4C",
+   "areas": []
+  },
+  {
+   "title": "A Mobile Science Index for Development.",
+   "authors": "E Canessa, M Zennaro",
+   "venue": "Int. J. Interact. Mob. Technol. 6 (1), 4-6",
+   "year": "2012",
+   "cites": 41,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:hC7cP41nSMkC",
+   "areas": []
+  },
+  {
+   "title": "SM2: Solar monitoring system in Malawi",
+   "authors": "M Nkoloma, M Zennaro, A Bagula",
+   "venue": "Proceedings of ITU Kaleidoscope 2011: The Fully Networked Human?-Innovations…",
+   "year": "2011",
+   "cites": 37,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:-f6ydRqryjwC",
+   "areas": []
+  },
+  {
+   "title": "Delay tolerant network on smartphones: Applications for communication challenged areas",
+   "authors": "H Ntareme, M Zennaro, B Pehrson",
+   "venue": "Proceedings of the 3rd Extreme Conference on Communication: The Amazon…",
+   "year": "2011",
+   "cites": 94,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_kc_bZDykSQC",
+   "areas": [
+    "dtn"
+   ]
+  },
+  {
+   "title": "A Study of Efficiency-Campus Networks in Western Himalayan Universities of India",
+   "authors": "D Sharma, V Kumar, M Zennaro, V Singh",
+   "venue": "2011 IEEE Workshops of International Conference on Advanced Information…",
+   "year": "2011",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:QIV2ME_5wuYC",
+   "areas": []
+  },
+  {
+   "title": "Solar Monitoring System in Malawi",
+   "authors": "A Bagula, M Zennaro, M Nkoloma",
+   "venue": "University of Cape Town",
+   "year": "2011",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ZeXyd9-uunAC",
+   "areas": []
+  },
+  {
+   "title": "Bridging the digital divide in Africa: A technology perspective",
+   "authors": "A Bagula",
+   "venue": "",
+   "year": "2011",
+   "cites": 7,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:4DMP91E08xMC",
+   "areas": []
+  },
+  {
+   "title": "On the relevance of using Bayesian belief networks in wireless sensor networks situation recognition",
+   "authors": "AB Bagula, I Osunmakinde, M Zennaro",
+   "venue": "Sensors 10 (12), 11001-11020",
+   "year": "2010",
+   "cites": 5,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:4TOpqqG69KYC",
+   "areas": []
+  },
+  {
+   "title": "Experimental evaluation of interference mitigation on the 2.4 GHz ISM band using channel hopping",
+   "authors": "AB Bagula, A Mehta, M Zennaro",
+   "venue": "2010 IFIP Wireless Days, 1-5",
+   "year": "2010",
+   "cites": 12,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:hqOjcs7Dif8C",
+   "areas": []
+  },
+  {
+   "title": "Planning and deploying long distance wireless sensor networks: The integration of simulation and experimentation",
+   "authors": "M Zennaro, A Bagula, D Gascon, AB Noveleta",
+   "venue": "International Conference on Ad-Hoc Networks and Wireless, 191-204",
+   "year": "2010",
+   "cites": 32,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:WF5omc3nYNoC",
+   "areas": []
+  },
+  {
+   "title": "Bytewalla III",
+   "authors": "M Zennaro",
+   "venue": "Idea 2010, 08-31",
+   "year": "2010",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:4OULZ7Gr8RgC",
+   "areas": [
+    "dtn"
+   ]
+  },
+  {
+   "title": "Long distance wireless sensor networks: simulation vs reality",
+   "authors": "M Zennaro, A Bagula, D Gascon, AB Noveleta",
+   "venue": "Proceedings of the 4th ACM Workshop on Networked Systems for Developing…",
+   "year": "2010",
+   "cites": 52,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:9ZlFYXVOiuMC",
+   "areas": []
+  },
+  {
+   "title": "Security in Delay Tolerant Networks: An Android Implementation",
+   "authors": "S Domancich, B Pehrson, A Ylä-Jääski, H Ntareme, A Doria, M Zennaro",
+   "venue": "",
+   "year": "2010",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:kNdYIx-mwKoC",
+   "areas": [
+    "dtn"
+   ]
+  },
+  {
+   "title": "Cell phone spectroscopy in the classroom",
+   "authors": "A Scheeline, K Kelley",
+   "venue": "m-Science, 97",
+   "year": "2010",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ipzZ9siozwsC",
+   "areas": []
+  },
+  {
+   "title": "Bytewalla IV Implementation of Delay Tolerant Networks on the Android platform",
+   "authors": "M Hognerud, P Sjödin, B Pehrson, H Ntareme, D Gligoroski, D Avri, ...",
+   "venue": "KTH-Royal Institute of Technology",
+   "year": "2010",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:qUcmZB5y_30C",
+   "areas": [
+    "dtn"
+   ]
+  },
+  {
+   "title": "Experimental evaluation of radio transceivers for sensor networks in harsh environments",
+   "authors": "D Gascón, A Bielsa, M Zennaro, A Bagula",
+   "venue": "University of Cape Town",
+   "year": "2010",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:YOwf2qJgpHMC",
+   "areas": []
+  },
+  {
+   "title": "Wireless sensor networks for development: potentials and open issues",
+   "authors": "M Zennaro",
+   "venue": "KTH",
+   "year": "2010",
+   "cites": 7,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ULOm3_A8WrAC",
+   "areas": []
+  },
+  {
+   "title": "Community sensor networks: An application to pollution maps",
+   "authors": "A Bagula, G Inngs, S Scott, M Zennaro",
+   "venue": "verlag werner hulsbusch",
+   "year": "2010",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:5nxA0vEk-isC",
+   "areas": []
+  },
+  {
+   "title": "Design of a flexible and robust gateway to collect sensor data in intermittent power environments",
+   "authors": "M Zennaro, AB Bagula",
+   "venue": "International Journal of Sensor Networks 8 (3-4), 172-181",
+   "year": "2010",
+   "cites": 32,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:zYLM7Y9cAGgC",
+   "areas": []
+  },
+  {
+   "title": "On the design of a water quality wireless sensor network (wqwsn): An application to water quality monitoring in malawi",
+   "authors": "M Zennaro, A Floros, G Dogan, T Sun, Z Cao, C Huang, M Bahader, ...",
+   "venue": "2009 international conference on parallel processing workshops, 330-336",
+   "year": "2009",
+   "cites": 82,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Y0pCki6q_DkC",
+   "areas": []
+  },
+  {
+   "title": "On the relevance of Open Wireless sensors for NGN",
+   "authors": "M Zennaro, A Bagula, H Ntareme, G Inggs, S Scott",
+   "venue": "2009 ITU-T Kaleidoscope: Innovations for Digital Inclusions, 1-8",
+   "year": "2009",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:7PzlFSSx8tAC",
+   "areas": []
+  },
+  {
+   "title": "Design of a flexible and reliable gateway to collect sensor data in intermittent power environments",
+   "authors": "M Zennaro, A Bagula",
+   "venue": "2009 Proceedings of 18th International Conference on Computer Communications…",
+   "year": "2009",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:0EnyYjriUFMC",
+   "areas": []
+  },
+  {
+   "title": "One year of ICTP diploma courses on-line using the automated EyA recording system",
+   "authors": "E Canessa, C Fonda, M Zennaro",
+   "venue": "Computers & Education 53 (1), 183-188",
+   "year": "2009",
+   "cites": 26,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Se3iqnhoufwC",
+   "areas": []
+  },
+  {
+   "title": "On the relevance of using open wireless sensor networks in environment monitoring",
+   "authors": "AB Bagula, G Inggs, S Scott, M Zennaro",
+   "venue": "Sensors 9 (6), 4845-4868",
+   "year": "2009",
+   "cites": 9,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:UebtZRa9Y70C",
+   "areas": []
+  },
+  {
+   "title": "Supporting science in developing countries using open technologies",
+   "authors": "E Canessa, M Zennaro, C Fonda",
+   "venue": "European Journal of Physics 30 (3), 651-660",
+   "year": "2009",
+   "cites": 4,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:eQOLeE2rZwMC",
+   "areas": []
+  },
+  {
+   "title": "ROUTING PROTOCOLS FOR SUN SPOTS œ ANALYSIS, COMPARISON AND IMPLEMENTATION OF NEW PROTOCOLS",
+   "authors": "A Floros, M Zennaro, B Pehrson",
+   "venue": "",
+   "year": "2009",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:dhFuZR0502QC",
+   "areas": []
+  },
+  {
+   "title": "On a long wireless link for rural telemedicine in Malawi",
+   "authors": "M Zennaro, C Fonda, E Pietrosemoli, AMS Okay, R Flickenger, ...",
+   "venue": "Proceedings of the 6th International Conference on Open Access, Lilongwe, Malawi",
+   "year": "2008",
+   "cites": 19,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:qjMakFHDy7sC",
+   "areas": []
+  },
+  {
+   "title": "Wireless Sensor Networks: a great opportunity for researchers in Developing Countries",
+   "authors": "M Zennaro, B Pehrson, A Bagula",
+   "venue": "Proceedings of WCITD2008 Conference, Pretoria, South Africa 67",
+   "year": "2008",
+   "cites": 43,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:UeHWp8X0CEIC",
+   "areas": []
+  },
+  {
+   "title": "Experimental evaluation of temporal and energy characteristics of an outdoor sensor network",
+   "authors": "M Zennaro, H Ntareme, A Bagula",
+   "venue": "Proceedings of the International Conference on Mobile Technology…",
+   "year": "2008",
+   "cites": 37,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Tyk-4Ss8FVUC",
+   "areas": []
+  },
+  {
+   "title": "Very long distance wi-fi networks",
+   "authors": "R Flickenger, S Okay, E Pietrosemoli, M Zennaro, C Fonda",
+   "venue": "Proceedings of the second ACM SIGCOMM workshop on Networked systems for…",
+   "year": "2008",
+   "cites": 90,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:u-x6o8ySG0sC",
+   "areas": []
+  },
+  {
+   "title": "Academic webcasting using the automated EyA recording system",
+   "authors": "E Canessa, C Fonda, M Zennaro",
+   "venue": "INTED-International Technology, Education and Development, Valencia, SP…",
+   "year": "2008",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:D_sINldO8mEC",
+   "areas": []
+  },
+  {
+   "title": "A compendium of selected literature on Open Access",
+   "authors": "E Canessa, M Zennaro",
+   "venue": "The Abdus Salam International Centre for Theoretical Physics",
+   "year": "2008",
+   "cites": 38,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:48xauSegjOkC",
+   "areas": []
+  },
+  {
+   "title": "A framework for the development of traffic control systems",
+   "authors": "M Zennaro",
+   "venue": "University of California, Berkeley",
+   "year": "2008",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:SdhP9T11ey4C",
+   "areas": []
+  },
+  {
+   "title": "Online Water Monitoring Using Wireless Sensor Networks",
+   "authors": "B Pehrson, H Ntareme, M Zennaro",
+   "venue": "",
+   "year": "2008",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:aqlVkmm33-oC",
+   "areas": []
+  },
+  {
+   "title": "Tecnologia EyA: uma ferramenta para produção e difusão automatizada de aulas digitais na web",
+   "authors": "WL Roque, E Canessa, M Zennaro, C Fonda",
+   "venue": "RENOTE: revista novas tecnologias na educação [recurso eletrônico]. Porto…",
+   "year": "2008",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:3fE2CSJIrl8C",
+   "areas": []
+  },
+  {
+   "title": "On the design of a flexible gateway for Wireless Sensor Networks",
+   "authors": "M Zennaro",
+   "venue": "First International Workshop…",
+   "year": "2008",
+   "cites": 6,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:roLk4NBRz8UC",
+   "areas": []
+  },
+  {
+   "title": "Difusin̤ cientf̕ica y las iniciativas de acceso abierto: recopilacin̤ de publicaciones seleccionadas sobre acceso abierto al conocimiento",
+   "authors": "E Cannesa, M Zennaro",
+   "venue": "Centro de Cl̀culo Cientf̕ico de la Universidad de Los Andes (CeCalCULA)",
+   "year": "2008",
+   "cites": 30,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:2osOgNQ5qMEC",
+   "areas": []
+  },
+  {
+   "title": "Science dissemination using open access",
+   "authors": "E Canessa, M Zennaro",
+   "venue": "Science Dissemination using Open Access, Trieste, Italy",
+   "year": "2008",
+   "cites": 12,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:u5HHmVD_uO8C",
+   "areas": []
+  },
+  {
+   "title": "CHAL-Control logic/hardware abstraction layer",
+   "authors": "M Zennaro, R Sengupta",
+   "venue": "",
+   "year": "2007",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:BqipwSGYUEgC",
+   "areas": []
+  },
+  {
+   "title": "Webcasting of traditional chalkboard lectures: the EyA system",
+   "authors": "E Canessa, C Fonda, M Zennaro",
+   "venue": "European Journal of Open, Distance and E-learning 10 (2)",
+   "year": "2007",
+   "cites": 10,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:W7OEmFMy1HYC",
+   "areas": []
+  },
+  {
+   "title": "Eya: enhance your conference audience using apple technologies",
+   "authors": "M Zennaro, O Fonda, E Canessa",
+   "venue": "Poster presented at (WWDC07-Apple Developers Conference, USA",
+   "year": "2007",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:bFI3QPDXJZMC",
+   "areas": []
+  },
+  {
+   "title": "Book Sprint: A new model for rapid book authoring and content development",
+   "authors": "M Zennaro, E Canessa, C Fonda, M Belcher, R Flickenger",
+   "venue": "",
+   "year": "2007",
+   "cites": 16,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:qxL8FJ1GzNcC",
+   "areas": []
+  },
+  {
+   "title": "Scalable Models for Establishment of Sustainable Broadband Services in Rural Areas of developing regions",
+   "authors": "A Nungu",
+   "venue": "",
+   "year": "2007",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Zph67rFs4hoC",
+   "areas": []
+  },
+  {
+   "title": "Rural wireless networking in developing countries: ICTP contribution",
+   "authors": "M Zennaro, R Struzak, SM Radicella",
+   "venue": "",
+   "year": "2007",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_FxGoFyzp5QC",
+   "areas": []
+  },
+  {
+   "title": "EyA system: Automated audio-video-slide recordings",
+   "authors": "E Canessa, C Fonda, M Zennaro",
+   "venue": "Conference ICL2007, September 26-28, 2007, 3 pages",
+   "year": "2007",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:IjCSPb-OGe4C",
+   "areas": []
+  },
+  {
+   "title": "How to accelerate your internet",
+   "authors": "R Flickenger, M Belcker, E Canessa, M Zennaro",
+   "venue": "A practical guide to Bandwidth Management and optimization using Open Source…",
+   "year": "2006",
+   "cites": 15,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:d1gkVwhDpl0C",
+   "areas": []
+  },
+  {
+   "title": "Modular Composition of Synchronous Programs: Applications to Traffic Signal Control",
+   "authors": "M Zennaro, R Sengupta",
+   "venue": "",
+   "year": "2006",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:O3NaXMp0MMsC",
+   "areas": []
+  },
+  {
+   "title": "Scientific measure of Africa's connectivity",
+   "authors": "M Zennaro",
+   "venue": "Information Technologies and International Development",
+   "year": "2006",
+   "cites": 20,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:9yKSN-GCB0IC",
+   "areas": []
+  },
+  {
+   "title": "Access to scholarly literature via a free knowledge management enabler: an opportunity for scientists in developing countries",
+   "authors": "E Canessa, C Fonda, M Zennaro, KR Sreenivasan",
+   "venue": "Knowledge Management for Development Journal 2 (3), 75-85",
+   "year": "2006",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:YsMSGLbcyi4C",
+   "areas": []
+  },
+  {
+   "title": "Funding scientific open access",
+   "authors": "E Canessa, C Fonda, M Zennaro",
+   "venue": "",
+   "year": "2006",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:rO6llkc54NcC",
+   "areas": []
+  },
+  {
+   "title": "A web community to foster science in developing countries: www. ictp. it",
+   "authors": "E Canessa, C Fonda, M Zennaro, KR Sreenivasan",
+   "venue": "International Journal of Web Based Communities 2 (2), 172-182",
+   "year": "2006",
+   "cites": 1,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:LkGwnXOMwfcC",
+   "areas": []
+  },
+  {
+   "title": "Wireless Networking in the Developing World: A practical guide to planning and building low-cost telecommunications infrastructure",
+   "authors": "R Flickenger",
+   "venue": "Hacker Friendly LLC, Seattle, WA, US",
+   "year": "2006",
+   "cites": 135,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ufrVoPGSRksC",
+   "areas": []
+  },
+  {
+   "title": "Distributing Synchronous Programs Using Bounded Queues, a coordinated traffic signal",
+   "authors": "M Zennaro, R Sengupta",
+   "venue": "",
+   "year": "2005",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:LdasjJ6CEcoC",
+   "areas": []
+  },
+  {
+   "title": "Distributing Synchronous Programs Using Bounded Queues, a coordinated traffic signal application",
+   "authors": "M Zennaro, R Sengupta",
+   "venue": "",
+   "year": "2005",
+   "cites": 2,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:TFP_iSt0sucC",
+   "areas": []
+  },
+  {
+   "title": "Radio laboratory handbook",
+   "authors": "M Zennaro, C Fonda",
+   "venue": "School on Digital Radio Communications for Research and Training in…",
+   "year": "2004",
+   "cites": 10,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:hFOr9nPyWt4C",
+   "areas": []
+  },
+  {
+   "title": "Enhanced Power Management in Adaptive Communication for IoT-Based Environmental Monitoring",
+   "authors": "EE Namugenyi, JS Sansa-Otim, M Nsabagwa, A Asasira, M Zennaro",
+   "venue": "Frontiers in the Internet of Things 5, 1888644, 0",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:j7_hQOaDUrUC",
+   "areas": []
+  },
+  {
+   "title": "Binary Grey Wolf Optimization based Topology Control for Wireless Sensor Networks",
+   "authors": "SN Ghorpade, M Zennaro, BS Chaudhari",
+   "venue": "",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_OXeSy2IsFwC",
+   "areas": []
+  },
+  {
+   "title": "2 Detection Techniques",
+   "authors": "H Mauwa, A Bagula, M Zennaro, E Pietrosemoli, A Lysko, TX Brown",
+   "venue": "",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:LhH-TYMQEocC",
+   "areas": []
+  },
+  {
+   "title": "2 Challenges of Spectrum Sensing Explained",
+   "authors": "H Mauwa, A Bagula, M Zennaro",
+   "venue": "",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:yqoGN6RLRZoC",
+   "areas": []
+  },
+  {
+   "title": "Networking Basics",
+   "authors": "C Fonda, M Zennaro",
+   "venue": "",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:OR75R8vi5nAC",
+   "areas": []
+  },
+  {
+   "title": "Survey of Communication Technologies for IoT Deployments in Developing Regions",
+   "authors": "NE Eunice, JS Otim, M Zennaro, SD Wolthusen",
+   "venue": "",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:9c2xU6iGI7YC",
+   "areas": []
+  },
+  {
+   "title": "Predicting Lora Link Packet Reception Ratio Using Machine Learning: A Practical Perspective",
+   "authors": "MM Ali, AN Mian, SWH Shah, M Zennaro",
+   "venue": "Available at SSRN 4094692, 0",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:kh2fBNsKQNwC",
+   "areas": []
+  },
+  {
+   "title": "A Smart Cities LoRaWAN Network",
+   "authors": "PA Barro, M Zennaro, J Degila, E Pietrosemoli",
+   "venue": "MDPI, Basel, Switzerland., 0",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Ri6SYOTghG4C",
+   "areas": []
+  },
+  {
+   "title": "Ocean of things per la conoscenza degli oceani",
+   "authors": "A Crise, M Zennaro, D Ramani",
+   "venue": "Trieste Next 2019-Big Data, Deep Science, 0",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:yB1At4FlUx8C",
+   "areas": []
+  },
+  {
+   "title": "TV-White Spaces for Education: The Internet for Education in Boane",
+   "authors": "S David, I Ruby, E Pietrosimoli, M Zennaro",
+   "venue": "Conference on M4D Mobile Communication Technology for Development, 265, 0",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Y5dfb0dijaUC",
+   "areas": []
+  },
+  {
+   "title": "Java Modeling Language",
+   "authors": "M Zennaro",
+   "venue": "",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:AXPGKjj_ei8C",
+   "areas": []
+  },
+  {
+   "title": "Refereed Paper The Internet@ rural: why not TV-White spaces in Mozambique?",
+   "authors": "SD Cumbala, M Zennaro, A Muchanga",
+   "venue": "Privilege, Information, Knowledge & Power: An endless dilemma?, 28, 0",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:HE397vMXCloC",
+   "areas": []
+  },
+  {
+   "title": "Project proposal to SPIDER: Online Water Quality Monitoring",
+   "authors": "T Brown, N Farahbakhshazad, B Pehrson, M Zennaro, ...",
+   "venue": "",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:V3AGJWp-ZtQC",
+   "areas": []
+  },
+  {
+   "title": "CNBuB-2015 Organizing Committee",
+   "authors": "R Baig, B Braem, F Freitag, A Bagula, C Barz, R Campos, ...",
+   "venue": "",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:sSrBHYA8nusC",
+   "areas": []
+  },
+  {
+   "title": "6.3 Solving the Geographical Challenges: Access Technologies for Rural and Remote Access",
+   "authors": "A Sathiaseelan, M Marina, M Zennaro, F Ramos, P Antoniadis, ...",
+   "venue": "Towards an Affordable Internet Access for Everyone: The Quest for Enabling…, 0",
+   "year": "",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:u9iWguZQMMsC",
+   "areas": []
+  }
+ ]
+}

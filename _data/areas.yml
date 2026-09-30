@@ -1,0 +1,46 @@
+# The three research areas shown on the home page, in order.
+# `key` must match the tags used in papers.json (see scripts/update_papers.py)
+# and the `area` field in workshops.yml.
+
+- key: tinyml
+  num: "01"
+  title: "TinyML"
+  short: "Machine learning on microcontrollers, and the SciTinyML / TinyML4D community."
+  body: >-
+    Tiny Machine Learning brings inference to low-power microcontrollers that cost a few dollars
+    and run for months on batteries. I work on scientific and development applications of TinyML
+    (agriculture, energy, health, environmental and physics sensing) and on education: with
+    Harvard and a network of universities across Africa, Asia and Latin America I co-organize the
+    SciTinyML workshops and the TinyML4D academic network, which makes embedded machine learning
+    teaching material available to everyone.
+  links:
+    - label: "SciTinyML"
+      url: https://tinyml.seas.harvard.edu/
+    - label: "TinyML4D Academic Network"
+      url: https://tinyml.seas.harvard.edu/4D/AcademicNetwork
+
+- key: weather
+  num: "02"
+  title: "Low-cost weather station networks"
+  short: "Affordable, open weather stations and long-range links where data is scarce."
+  body: >-
+    Many regions of the world have very sparse meteorological observations. Low-cost, open-hardware
+    weather stations connected with long-range, low-power radio (LoRa / LoRaWAN) can densify
+    these networks at a fraction of the cost of traditional stations. I study how to design,
+    deploy and connect them in challenging terrain, from extending their communication range to
+    evaluating the field readiness of LoRaWAN in developing regions.
+  links:
+    - label: "Radio propagation notes"
+      url: https://marcozennaro.github.io/weatherstations/
+
+- key: dtn
+  num: "03"
+  title: "Delay Tolerant Networking"
+  short: "Moving data where there is no continuous Internet connection."
+  body: >-
+    Delay and Disruption Tolerant Networking (DTN) moves data by storing and carrying it until a
+    link becomes available, so that communities and sensors without continuous connectivity can
+    still exchange information. My work in this area started with DTN on Android smartphones for
+    communication-challenged areas, continued with disruption-tolerant IoT architectures, and today
+    looks at using public transport systems as data mules to extend connectivity in rural areas.
+  links: []
