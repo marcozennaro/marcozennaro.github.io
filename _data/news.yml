@@ -20,7 +20,8 @@
   source: "The Conversation"
   url: https://theconversation.com/ai-in-the-developing-world-how-tiny-machine-learning-can-have-a-big-impact-220025
   image: /assets/img/news/conversation-tinyml.jpg
-  image_alt: "Researchers holding a tortoise during a TinyML wildlife monitoring project"
+  image_alt: "The Conversation article page, with a photo of a tortoise carrying a TinyML sensor in Argentina"
+  image_shape: portrait
   text: >-
     An article I co-wrote with Brian Plancher, Matthew Stewart and Vijay Janapa Reddi on how
     microcontrollers costing as little as a dollar can bring machine learning to the developing
