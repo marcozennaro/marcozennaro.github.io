@@ -31,6 +31,7 @@ layout: null
         <a href="#papers">Papers</a>
         <a href="#workshops">Workshops</a>
         <a href="#about">About</a>
+        <a href="#contact">Contact</a>
         <a class="nav-ext" href="{{ a.scholar }}" target="_blank" rel="noopener">Scholar ↗</a>
         <button class="theme-toggle" type="button" aria-label="Toggle light / dark theme" title="Toggle light / dark">
           <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
@@ -53,7 +54,7 @@ layout: null
         </p>
         <div class="cta-row">
           <a class="btn btn-primary" href="#research">Explore my research →</a>
-          <a class="btn btn-ghost" href="{{ a.scholar }}" target="_blank" rel="noopener">Google Scholar ↗</a>
+          <a class="btn btn-ghost" href="{{ a.meeting }}" target="_blank" rel="noopener">Book a meeting ↗</a>
         </div>
         <div class="stats">
           {%- if gs.citations %}<div class="stat"><b>{{ gs.citations }}</b><span>Citations</span></div>{% endif %}
@@ -202,6 +203,7 @@ layout: null
       <p class="eyebrow">About</p>
       <h2>About me</h2>
       <div class="about-grid">
+        <img class="about-photo" src="{{ '/assets/img/marco.jpg' | relative_url }}" alt="Marco Zennaro" onerror="this.remove()">
         <div class="prose">
           <p>
             Marco Zennaro is a Research Scientist at the Abdus Salam International Centre for
@@ -222,13 +224,30 @@ layout: null
             MSc in Electronic Engineering from the University of Trieste, Italy.
           </p>
         </div>
-        <ul class="contact">
-          <li><span>Email</span><a href="mailto:{{ a.email }}">{{ a.email }}</a></li>
+      </div>
+    </section>
+
+    <section id="contact" class="section contact-section">
+      <p class="eyebrow">Contact</p>
+      <h2>Get in touch</h2>
+      <div class="contact-grid">
+        <div class="contact-card contact-main reveal">
+          <p>I am happy to talk about TinyML, weather station networks, DTN, workshops and
+            collaborations. Write me an email or book a slot directly in my calendar.</p>
+          <div class="cta-row">
+            <a class="btn btn-primary" href="{{ a.meeting }}" target="_blank" rel="noopener">Book a meeting ↗</a>
+            <a class="btn btn-ghost" href="mailto:{{ a.email }}">Email me</a>
+          </div>
+          <dl class="contact-dl">
+            <div><dt>Email</dt><dd><a href="mailto:{{ a.email }}">{{ a.email }}</a></dd></div>
+            <div><dt>Address</dt><dd>{{ a.address }}</dd></div>
+          </dl>
+        </div>
+        <ul class="contact reveal">
           <li><span>Google Scholar</span><a href="{{ a.scholar }}" target="_blank" rel="noopener">Profile ↗</a></li>
           <li><span>ORCID</span><a href="{{ a.orcid }}" target="_blank" rel="noopener">0000-0002-0578-0830 ↗</a></li>
           <li><span>GitHub</span><a href="{{ a.github }}" target="_blank" rel="noopener">marcozennaro ↗</a></li>
           <li><span>LinkedIn</span><a href="{{ a.linkedin }}" target="_blank" rel="noopener">Profile ↗</a></li>
-          <li><span>Address</span>ICTP, Strada Costiera 11, 34151 Trieste, Italy</li>
         </ul>
       </div>
     </section>
@@ -241,11 +260,13 @@ layout: null
         <p class="foot-name">Marco Zennaro</p>
         <p>TinyML, low-cost weather station networks and Delay Tolerant Networking at the
           <a href="https://www.ictp.it/" target="_blank" rel="noopener">Abdus Salam ICTP</a>, Trieste.</p>
+        <p class="foot-contact"><a href="mailto:{{ a.email }}">{{ a.email }}</a> · <a href="{{ a.meeting }}" target="_blank" rel="noopener">Book a meeting ↗</a></p>
       </div>
       <div class="foot-links">
         <a href="#research">Research</a>
         <a href="#papers">Papers</a>
         <a href="#workshops">Workshops</a>
+        <a href="#contact">Contact</a>
         <a href="{{ a.scholar }}" target="_blank" rel="noopener">Google Scholar ↗</a>
         <a href="{{ a.github }}" target="_blank" rel="noopener">GitHub ↗</a>
       </div>
