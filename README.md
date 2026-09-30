@@ -10,7 +10,9 @@ GitHub Pages — no build step needed; just edit and push.
 |---|---|
 | Bio, contact links | `index.html` (section `#about`) and `_config.yml` (`author:`) |
 | Research-area texts | `_data/areas.yml` |
-| Workshops (and their slides) | `_data/workshops.yml` |
+| Workshops (and their slides) | `_data/workshops.yml` (add `end: "YYYY-MM-DD"` to show an *Upcoming* badge) |
+| News items | `_data/news.yml` |
+| TinyML network map | `assets/img/tinyml4d-network.png` (settings in `_data/areas.yml`) |
 | Papers | `_data/papers.json` — regenerate with the script below |
 | Profile photo | add `assets/img/marco.jpg` (square, ~600×600 px) |
 | Colors / layout | `assets/css/style.css` |

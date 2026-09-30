@@ -4,7 +4,8 @@
 #   title:     name of the workshop (required)
 #   year:      e.g. 2025 (required)
 #   place:     city / country / "Virtual"
-#   area:      tinyml | weather | dtn | iot   (drives the colored tag)
+#   area:      tinyml | weather | dtn | iot | ai | outreach   (drives the colored tag)
+#   end:       last day, "YYYY-MM-DD" in quotes (optional; shows an "Upcoming" badge until then)
 #   url:       workshop website (optional)
 #   material:  link to code / GitHub repo (optional)
 #   slides:    list of slide decks (optional). Each item has a label and a link.
@@ -20,6 +21,41 @@
 #   slides:
 #     - label: "Opening"
 #       link: slides/2026-weather-opening.pdf
+
+- title: "Workshop on Scientific Computing and AI"
+  year: 2026
+  end: "2026-11-23"
+  place: "Kuwait City, Kuwait · Kuwait University & ICTP"
+  area: ai
+  url: https://indico.ictp.it/event/11128/
+
+- title: "Joint ICTP-IAEA Workshop on Edge Artificial Intelligence for Environmental and Radiation Sensing"
+  year: 2026
+  end: "2026-09-18"
+  place: "Bishkek, Kyrgyzstan · ICTP & IAEA"
+  area: tinyml
+  url: https://indico.ictp.it/event/11116/
+
+- title: "Workshop on Delay-Tolerant Networks (DTN) Solutions for Environmental Monitoring"
+  year: 2026
+  end: "2026-05-15"
+  place: "Kathmandu, Nepal · Prime College"
+  area: dtn
+  url: https://indico.ictp.it/event/11119/
+
+- title: "Maker Faire Trieste and Science Picnic 2026"
+  year: 2026
+  end: "2026-05-10"
+  place: "Trieste, Italy · ICTP & Comune di Trieste"
+  area: outreach
+  url: https://indico.ictp.it/event/11141/
+
+- title: "School on Applied AI for Sustainable Development"
+  year: 2026
+  end: "2026-03-27"
+  place: "ICTP, Trieste, Italy"
+  area: ai
+  url: https://indico.ictp.it/event/11136/
 
 - title: "Workshop on TinyML for Sustainable Development"
   year: 2025
@@ -38,6 +74,9 @@
   place: "Brazil · IBM & ICTP"
   area: tinyml
   url: https://tinyml.seas.harvard.edu/SustainableDev-24/
+  slides:
+    - label: "Closing"
+      link: https://tinyml.seas.harvard.edu/SustainableDev-24/assets/slides/day5-marco-Closing_ICTP-IBM_Workshop.pdf
 
 - title: "SciTinyML: Scientific Use of Machine Learning on Low-Power Devices"
   year: 2024
@@ -59,6 +98,9 @@
   place: "ICTP & Harvard"
   area: tinyml
   url: https://tinyml.seas.harvard.edu/SciTinyML-23/
+  slides:
+    - label: "Welcome"
+      link: https://tinyml.seas.harvard.edu/SciTinyML-23/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf
 
 - title: "SciTinyML: Scientific Use of Machine Learning on Low-Power Devices"
   year: 2022

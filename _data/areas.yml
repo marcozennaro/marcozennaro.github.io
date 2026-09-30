@@ -16,8 +16,13 @@
   links:
     - label: "SciTinyML"
       url: https://tinyml.seas.harvard.edu/
-    - label: "TinyML4D Academic Network"
+    - label: "AIEng4D (TinyML4D) Academic Network"
       url: https://tinyml.seas.harvard.edu/4D/AcademicNetwork
+  map:
+    image: /assets/img/tinyml4d-network.png
+    link: https://tinyml.seas.harvard.edu/4D/AcademicNetwork
+    alt: "World map of the AIEng4D (formerly TinyML4D) partner universities across Latin America, Africa and Asia"
+    caption: "The AIEng4D (formerly TinyML4D) academic network: partner universities across Latin America, Africa and Asia. Map by Marcelo Rovai."
 
 - key: weather
   num: "02"

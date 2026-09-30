@@ -335,3 +335,25 @@ h2 { font-size: clamp(1.8rem, 3.4vw, 2.4rem); margin: .1em 0 .6em; letter-spacin
   .about-grid { grid-template-columns: 1fr; }
   .about-photo { display: none; }
 }
+
+/* News, network map, upcoming badge (added) */
+.news { list-style: none; margin: 0; padding: 0; }
+.news-item {
+  display: grid; grid-template-columns: 110px 1fr; gap: 16px;
+  padding: 20px 22px; border-radius: var(--radius); background: var(--surface);
+  border: 1px solid var(--line-soft); box-shadow: var(--shadow); border-left: 5px solid var(--accent);
+  margin-bottom: 12px;
+}
+.news-date { font-weight: 700; color: var(--accent-tx); }
+.news-source { display: block; font-size: .72rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); font-weight: 700; margin-bottom: 2px; }
+.news-item p { margin: .4em 0 0; font-size: .95rem; }
+.area-map { margin: 24px 0 0; }
+.area-map img { display: block; width: 100%; height: auto; border-radius: 12px; background: #fff; padding: 8px; border: 1px solid var(--line-soft); }
+.area-map figcaption { font-size: .85rem; color: var(--muted); margin-top: 8px; }
+.badge-upcoming {
+  display: inline-block; font-size: .68rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase;
+  color: #fff; background: var(--c-tinyml); padding: 1px 8px; border-radius: 999px; margin-bottom: 4px;
+}
+@media (max-width: 640px) { .news-item { grid-template-columns: 1fr; gap: 4px; } }
+.brand-name, .nav-links a { white-space: nowrap; }
+@media (max-width: 880px) { .nav-links { gap: 16px; } .brand-name { display: none; } }

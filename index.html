@@ -3,7 +3,8 @@ layout: null
 ---
 {%- assign gs = site.data.papers -%}
 {%- assign a = site.author -%}
-{%- assign area_names = "tinyml:TinyML,weather:Weather stations,dtn:DTN,iot:IoT & wireless" | split: "," -%}
+{%- assign today = site.time | date: "%Y-%m-%d" -%}
+{%- assign area_names = "tinyml:TinyML,weather:Weather stations,dtn:DTN,ai:AI,iot:IoT & wireless,outreach:Outreach" | split: "," -%}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,6 +29,7 @@ layout: null
       </a>
       <nav class="nav-links">
         <a href="#research">Research</a>
+        <a href="#news">News</a>
         <a href="#papers">Papers</a>
         <a href="#workshops">Workshops</a>
         <a href="#about">About</a>
@@ -105,6 +107,23 @@ layout: null
 
   <main class="wrap">
 
+    <section id="news" class="section">
+      <p class="eyebrow">News</p>
+      <h2>In the news</h2>
+      <ul class="news">
+        {%- for n in site.data.news %}
+        <li class="news-item reveal">
+          <span class="news-date">{{ n.date | date: "%-d %b %Y" }}</span>
+          <div>
+            <span class="news-source">{{ n.source }}</span>
+            <a class="ptitle" href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }} ↗</a>
+            {%- if n.text %}<p>{{ n.text }}</p>{% endif %}
+          </div>
+        </li>
+        {%- endfor %}
+      </ul>
+    </section>
+
     <section id="research" class="section">
       <p class="eyebrow">Research</p>
       <h2>Three research areas</h2>
@@ -141,6 +160,12 @@ layout: null
             </ol>
           </div>
         </div>
+        {%- if ar.map %}
+        <figure class="area-map">
+          <a href="{{ ar.map.link }}" target="_blank" rel="noopener"><img src="{{ ar.map.image | relative_url }}" alt="{{ ar.map.alt }}" loading="lazy"></a>
+          <figcaption>{{ ar.map.caption }}</figcaption>
+        </figure>
+        {%- endif %}
       </article>
       {%- endfor %}
     </section>
@@ -185,6 +210,7 @@ layout: null
         <li class="ws reveal" data-area="{{ w.area }}">
           <span class="ws-year">{{ w.year }}</span>
           <div class="ws-body">
+            {%- if w.end and w.end >= today %}<span class="badge-upcoming">Upcoming</span>{% endif %}
             <h4>{% if w.url %}<a href="{{ w.url }}" target="_blank" rel="noopener">{{ w.title }}</a>{% else %}{{ w.title }}{% endif %}</h4>
             <span class="pmeta">{{ w.place }}</span>
             <span class="ws-links">
