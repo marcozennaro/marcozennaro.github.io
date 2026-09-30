@@ -1,4 +1,6 @@
-# News items — newest first. Fields: date ("YYYY-MM-DD"), title, source, url, text (optional)
+# News items — newest first.
+# Fields: date ("YYYY-MM-DD"), title, source, url, text (optional),
+#         image (optional, e.g. /assets/img/news/xxx.jpg), image_alt (optional)
 
 - date: "2025-02-20"
   title: "What's tinyML? The Global South's alternative to power-hungry, pricey AI"
@@ -8,3 +10,14 @@
     A Science feature on low-power, low-cost machine learning in regions where electricity and
     connectivity cannot be assumed, covering the TinyML teaching network across the Global South
     and our work on classifying mosquito species with TinyML.
+
+- date: "2024-02-08"
+  title: "AI in the developing world: how 'tiny machine learning' can have a big impact"
+  source: "The Conversation"
+  url: https://theconversation.com/ai-in-the-developing-world-how-tiny-machine-learning-can-have-a-big-impact-220025
+  image: /assets/img/news/conversation-tinyml.jpg
+  image_alt: "Researchers holding a tortoise during a TinyML wildlife monitoring project"
+  text: >-
+    An article I co-wrote with Brian Plancher, Matthew Stewart and Vijay Janapa Reddi on how
+    microcontrollers costing as little as a dollar can bring machine learning to the developing
+    world, and on the TinyML4D network of academic institutions across the Global South.

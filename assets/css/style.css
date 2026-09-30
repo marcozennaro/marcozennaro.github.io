@@ -357,3 +357,9 @@ h2 { font-size: clamp(1.8rem, 3.4vw, 2.4rem); margin: .1em 0 .6em; letter-spacin
 @media (max-width: 640px) { .news-item { grid-template-columns: 1fr; gap: 4px; } }
 .brand-name, .nav-links a { white-space: nowrap; }
 @media (max-width: 880px) { .nav-links { gap: 16px; } .brand-name { display: none; } }
+.news-item.has-image { grid-template-columns: 110px 180px 1fr; }
+.news-thumb img { display: block; width: 180px; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 10px; border: 1px solid var(--line-soft); }
+@media (max-width: 640px) {
+  .news-item.has-image { grid-template-columns: 1fr; }
+  .news-thumb img { width: 100%; max-width: 360px; }
+}

@@ -112,8 +112,11 @@ layout: null
       <h2>In the news</h2>
       <ul class="news">
         {%- for n in site.data.news %}
-        <li class="news-item reveal">
+        <li class="news-item{% if n.image %} has-image{% endif %} reveal">
           <span class="news-date">{{ n.date | date: "%-d %b %Y" }}</span>
+          {%- if n.image %}
+          <a class="news-thumb" href="{{ n.url }}" target="_blank" rel="noopener"><img src="{{ n.image | relative_url }}" alt="{{ n.image_alt | default: n.title }}" loading="lazy"></a>
+          {%- endif %}
           <div>
             <span class="news-source">{{ n.source }}</span>
             <a class="ptitle" href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }} ↗</a>
