@@ -115,7 +115,7 @@ layout: null
         <li class="news-item{% if n.image %} has-image{% endif %} reveal">
           <span class="news-date">{{ n.date | date: "%-d %b %Y" }}</span>
           {%- if n.image %}
-          <a class="news-thumb" href="{{ n.url }}" target="_blank" rel="noopener"><img src="{{ n.image | relative_url }}" alt="{{ n.image_alt | default: n.title }}" loading="lazy"></a>
+          <a class="news-thumb{% if n.image_shape == 'portrait' %} is-portrait{% endif %}" href="{{ n.url }}" target="_blank" rel="noopener"><img src="{{ n.image | relative_url }}" alt="{{ n.image_alt | default: n.title }}" loading="lazy"></a>
           {%- endif %}
           <div>
             <span class="news-source">{{ n.source }}</span>

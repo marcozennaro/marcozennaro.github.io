@@ -1,11 +1,15 @@
 # News items — newest first.
 # Fields: date ("YYYY-MM-DD"), title, source, url, text (optional),
-#         image (optional, e.g. /assets/img/news/xxx.jpg), image_alt (optional)
+#         image (optional, e.g. /assets/img/news/xxx.jpg), image_alt (optional),
+#         image_shape: portrait (optional, shows the whole image instead of a 3:2 crop)
 
 - date: "2025-02-20"
   title: "What's tinyML? The Global South's alternative to power-hungry, pricey AI"
   source: "Science"
   url: https://www.science.org/content/article/what-s-tinyml-global-south-s-alternative-power-hungry-pricey-ai
+  image: /assets/img/news/science-tinyml.jpg
+  image_alt: "Opening page of the Science feature 'Cutting AI down to size', 21 February 2025"
+  image_shape: portrait
   text: >-
     A Science feature on low-power, low-cost machine learning in regions where electricity and
     connectivity cannot be assumed, covering the TinyML teaching network across the Global South

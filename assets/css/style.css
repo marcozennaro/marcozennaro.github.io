@@ -363,3 +363,5 @@ h2 { font-size: clamp(1.8rem, 3.4vw, 2.4rem); margin: .1em 0 .6em; letter-spacin
   .news-item.has-image { grid-template-columns: 1fr; }
   .news-thumb img { width: 100%; max-width: 360px; }
 }
+.news-thumb.is-portrait img { aspect-ratio: auto; object-fit: contain; background: #fff; box-shadow: var(--shadow); }
+@media (max-width: 640px) { .news-thumb.is-portrait img { max-width: 220px; } }
