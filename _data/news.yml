@@ -3,6 +3,21 @@
 #         image (optional, e.g. /assets/img/news/xxx.jpg), image_alt (optional),
 #         image_shape: portrait (optional, shows the whole image instead of a 3:2 crop)
 
+- date: "2026-10-15"
+  title: "Sense, Think, Transmit: TinyML and LoRaWAN for environmental scientists"
+  source: "LinkedIn"
+  url: https://www.linkedin.com/feed/update/urn:li:activity:7516588796721905664/
+  image: /assets/img/news/imperial-tinyml-lorawan-2026.jpg
+  image_alt: "Group photo of the workshop participants holding their Arduino Nicla Vision boards outside the Ingrebourne Valley Visitor Centre"
+  text: >-
+    A four-day hands-on workshop on TinyML and LoRaWAN, organised by Imperial College London in the
+    framework of a project with the UK Centre for Ecology &amp; Hydrology (UKCEH). The participants were
+    environmental scientists: they trained models to recognise sounds and detect objects on
+    microcontrollers, sent the results over LoRaWAN, and started developing applications of their own,
+    a mix with great potential for scientific fieldwork. Hosted at the Ingrebourne Valley Visitor
+    Centre, Hornchurch Country Park. Slides and code are on the
+    <a href="https://marcozennaro.github.io/imperial-2026/">workshop page</a>.
+
 - date: "2025-02-20"
   title: "What's tinyML? The Global South's alternative to power-hungry, pricey AI"
   source: "Science"
