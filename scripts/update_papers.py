@@ -114,16 +114,16 @@ def norm(title):
 
 def same_work(p, q):
     a, b = norm(p["title"]), norm(q["title"])
-    if a == b:
-        return True
     for group in SAME_WORK:
         if any(g in a for g in group) and any(g in b for g in group):
             return True
-    # Only compare near-identical titles from the same year, so a conference
-    # paper and its later journal version are still counted separately.
+    # Only compare titles from the same year, so a conference paper and its
+    # later journal version (often with the same title) are counted separately.
     same_year = p["year"] == q["year"] or not p["year"] or not q["year"]
     if not same_year:
         return False
+    if a == b:
+        return True
     short, long_ = sorted((a, b), key=len)
     if len(short) >= 6 and long_.startswith(short):
         return True  # e.g. "RFTrack" and "RFTrack: a tool for ..."

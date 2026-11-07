@@ -1,9 +1,9 @@
 {
  "updated": "2026-11-07",
  "scholar_id": "qOtlP1AAAAAJ",
- "citations": 5577,
- "h_index": 38,
- "i10_index": 109,
+ "citations": 5562,
+ "h_index": 37,
+ "i10_index": 108,
  "papers": [
   {
    "title": "Micro-credential for Industry 4.0: engineering safety and reliability with integrated machine learning and soft skills",
@@ -853,15 +853,6 @@
    "areas": []
   },
   {
-   "title": "A Data‐Driven Predictive Machine Learning Model for Efficiently Storing Temperature‐Sensitive Medical Products, Such as Vaccines: Case Study: Pharmacies in Rwanda",
-   "authors": "J Habiyaremye, M Zennaro, C Mikeka, E Masabo, K Jayavel, S Kumaran",
-   "venue": "Journal of Healthcare Engineering 2021 (1), 9990552",
-   "year": "2021",
-   "cites": 8,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:S16KYo8Pm5AC",
-   "areas": []
-  },
-  {
    "title": "Linee guida per redigere documento accessibile",
    "authors": "M Zennaro, L Piccotti",
    "venue": "Relazione Interna OGS 2021/23 CESIT 2",
@@ -880,6 +871,15 @@
    "areas": [
     "weather"
    ]
+  },
+  {
+   "title": "A Data‐Driven Predictive Machine Learning Model for Efficiently Storing Temperature‐Sensitive Medical Products, Such as Vaccines: Case Study: Pharmacies in Rwanda",
+   "authors": "J Habiyaremye, M Zennaro, C Mikeka, E Masabo, K Jayavel, S Kumaran",
+   "venue": "Journal of Healthcare Engineering 2021 (1), 9990552",
+   "year": "2021",
+   "cites": 8,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:S16KYo8Pm5AC",
+   "areas": []
   },
   {
    "title": "Toward the widespread application of low-cost technologies in coastal ocean observing (Internet of Things for the Ocean)",
@@ -923,16 +923,7 @@
    "venue": "Future Internet 12 (12), 224",
    "year": "2020",
    "cites": 71,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:lmc2jWPfTJgC",
-   "areas": []
-  },
-  {
-   "title": "OPENMODS 2.0 “Instrument Jamming Meeting” report",
-   "authors": "R Gerin, F Brunetti, A Crise, E Pietrosemoli, M Zennaro, E Brodte, ...",
-   "venue": "",
-   "year": "2020",
-   "cites": 1,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:rmuvC79q63oC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:lmc2jWPfTJgC",
    "areas": []
   },
   {
@@ -941,7 +932,7 @@
    "venue": "Information 11 (11), 524",
    "year": "2020",
    "cites": 10,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tuHXwOkdijsC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tuHXwOkdijsC",
    "areas": []
   },
   {
@@ -950,7 +941,7 @@
    "venue": "International Conference on Ad-Hoc Networks and Wireless, 282-294",
    "year": "2020",
    "cites": 5,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:kuK5TVdYjLIC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:kuK5TVdYjLIC",
    "areas": []
   },
   {
@@ -959,7 +950,7 @@
    "venue": "Proceedings of the 1st Workshop on Experiences with the Design and…",
    "year": "2020",
    "cites": 15,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:hMsQuOkrut0C",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:hMsQuOkrut0C",
    "areas": []
   },
   {
@@ -968,7 +959,7 @@
    "venue": "Proceedings of the 1st Workshop on Experiences with the Design and…",
    "year": "2020",
    "cites": 14,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ILKRHgRFtOwC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ILKRHgRFtOwC",
    "areas": []
   },
   {
@@ -977,7 +968,7 @@
    "venue": "Proceedings of the 1st Workshop on Experiences with the Design and…",
    "year": "2020",
    "cites": 3,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Z5m8FVwuT1cC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Z5m8FVwuT1cC",
    "areas": []
   },
   {
@@ -1349,21 +1340,21 @@
    "areas": []
   },
   {
-   "title": "Alternative Network Deployments: Taxonomy, Characterization, Technologies, and Architectures",
-   "authors": "J Saldana, A Arcia-Moret, B Braem, E Pietrosemoli, A Sathiaseelan, ...",
-   "venue": "",
-   "year": "2016",
-   "cites": 20,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:8AbLer7MMksC",
-   "areas": []
-  },
-  {
    "title": "Open and regionalised spectrum repositories for emerging countries",
    "authors": "AA Moret, A Sathiaseelan, M Zenaro, F Rondón, E Pietrosemoli, ...",
    "venue": "Proceedings of the 2016 workshop on Global Access to the Internet for All, 13-18",
    "year": "2016",
    "cites": 4,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:5ugPr518TE4C",
+   "areas": []
+  },
+  {
+   "title": "RFC 7962: Alternative Network Deployments: Taxonomy, Characterization, Technologies, and Architectures",
+   "authors": "A Arcia-Moret, B Braem, E Pietrosemoli, A Sathiaseelan, M Zennaro",
+   "venue": "RFC Editor",
+   "year": "2016",
+   "cites": 22,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:fFSKOagxvKUC",
    "areas": []
   },
   {
@@ -1389,7 +1380,7 @@
    "authors": "M Rainone, M Zennaro, E Pietrosemoli",
    "venue": "Proceedings of the Eighth International Conference on Information and…",
    "year": "2016",
-   "cites": 4,
+   "cites": 5,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:kRWSkSYxWN8C",
    "areas": []
   },
@@ -1578,7 +1569,7 @@
    "authors": "TX Brown, E Pietrosemoli, M Zennaro, A Bagula, H Mauwa, SM Nleya",
    "venue": "International Conference on e-Infrastructure and e-Services for Developing…",
    "year": "2014",
-   "cites": 56,
+   "cites": 57,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:XiSMed-E-HIC",
    "areas": []
   },
@@ -1691,12 +1682,12 @@
    "areas": []
   },
   {
-   "title": "TV White Spaces, I presume?",
+   "title": "TV white spaces, I presume? the quest for TVWS in Malawi and Zambia",
    "authors": "M Zennaro, E Pietrosemoli, A Arcia-Moret, C Mikeka, J Pinifolo, C Wang, ...",
-   "venue": "proceedings of the Sixth International Conference on Information and…",
+   "venue": "Proceedings of the Sixth International Conference on Information and…",
    "year": "2013",
-   "cites": 6,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ZHo1McVdvXMC",
+   "cites": 10,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:u_35RYKgDlwC",
    "areas": []
   },
   {
@@ -1732,7 +1723,7 @@
    "venue": "2013 IEEE Global Humanitarian Technology Conference (GHTC), 265-269",
    "year": "2013",
    "cites": 28,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:pqnbT2bcN3wC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:pqnbT2bcN3wC",
    "areas": []
   },
   {
@@ -1740,8 +1731,8 @@
    "authors": "J Butler, E Pietrosemoli, M Zennaro, C Fonda, S Okay, C Aichele, ...",
    "venue": "The WNDW Project",
    "year": "2013",
-   "cites": 30,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tkaPQYYpVKoC",
+   "cites": 34,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tkaPQYYpVKoC",
    "areas": []
   },
   {
@@ -1750,7 +1741,7 @@
    "venue": "International Journal of Distributed Sensor Networks 9 (5), 150703",
    "year": "2013",
    "cites": 188,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_Qo2XoVZTnwC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_Qo2XoVZTnwC",
    "areas": []
   },
   {
@@ -1758,8 +1749,8 @@
    "authors": "E Canessa, C Fonda, M Zennaro, N Deadline",
    "venue": "Low-Cost 3D Printing 11 (1)",
    "year": "2013",
-   "cites": 296,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:cFHS6HbyZ2cC",
+   "cites": 339,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:cFHS6HbyZ2cC",
    "areas": []
   },
   {
@@ -1768,7 +1759,7 @@
    "venue": "Low-Cost 3D Printing, 83",
    "year": "2013",
    "cites": 8,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:3htObqc8RwsC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:3htObqc8RwsC",
    "areas": []
   },
   {
@@ -1777,16 +1768,16 @@
    "venue": "e Abdus Salam International Centre for eoretical Physics",
    "year": "2013",
    "cites": 3,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:mNrWkgRL2YcC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:mNrWkgRL2YcC",
    "areas": []
   },
   {
-   "title": "Wireless Networking in the Developing World: A practical guide to planning and building low-cost telecommunications infrastructure",
-   "authors": "R Flickenger",
-   "venue": "Hacker Friendly LLC, Seattle, WA, US",
-   "year": "2006",
-   "cites": 137,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ufrVoPGSRksC",
+   "title": "Wireless networking in the developing world",
+   "authors": "J Butler, E Pietrosemoli, M Zennaro, C Fonda, S Okay, C Aichele, ...",
+   "venue": "",
+   "year": "2013",
+   "cites": 179,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_axFR9aDTf0C",
    "areas": []
   },
   {
@@ -1795,7 +1786,7 @@
    "venue": "Low-cost 3d printing for Science, Education and Sustainable Development, 159-162",
    "year": "2013",
    "cites": 17,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:EYYDruWGBe4C",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:EYYDruWGBe4C",
    "areas": []
   },
   {
@@ -1804,7 +1795,7 @@
    "venue": "Ermanno Pietrosemoli and Marco Zennaro (Trieste: Abdus Salam International…",
    "year": "2013",
    "cites": 8,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:z_wVstp3MssC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:z_wVstp3MssC",
    "areas": []
   },
   {
@@ -1813,7 +1804,7 @@
    "venue": "Ermanno Pietrosemoli and Marco Zennaro (Trieste: Abdus Salam International…",
    "year": "2013",
    "cites": 3,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:5awf1xo2G04C",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:5awf1xo2G04C",
    "areas": []
   },
   {
@@ -1822,7 +1813,7 @@
    "venue": "Low-cost 3D printing, for science, education & sustainable development, 127-132",
    "year": "2013",
    "cites": 57,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:PELIpwtuRlgC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:PELIpwtuRlgC",
    "areas": []
   },
   {
@@ -1831,7 +1822,7 @@
    "venue": "Intelligent Sensors Sensor Networks and Information Processing (ISSNIP)",
    "year": "2013",
    "cites": 2,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:738O_yMBCRsC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:738O_yMBCRsC",
    "areas": []
   },
   {
@@ -1840,7 +1831,7 @@
    "venue": "",
    "year": "2013",
    "cites": 1,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:f2IySw72cVMC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:f2IySw72cVMC",
    "areas": []
   },
   {
@@ -1849,7 +1840,7 @@
    "venue": "Proceedings of LAK 2013. Workshop on Analytics on Video-based Learning, 29-33",
    "year": "2013",
    "cites": 8,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:35N4QoGY0k4C",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:35N4QoGY0k4C",
    "areas": []
   },
   {
@@ -1858,7 +1849,7 @@
    "venue": "Journal of Telecommunications and Information Technology, 78-82",
    "year": "2012",
    "cites": 3,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:dfsIfKJdRG4C",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:dfsIfKJdRG4C",
    "areas": []
   },
   {
@@ -1867,7 +1858,7 @@
    "venue": "2012 Global Information Infrastructure and Networking Symposium (GIIS), 1-4",
    "year": "2012",
    "cites": 9,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:NaGl4SEjCO4C",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:NaGl4SEjCO4C",
    "areas": []
   },
   {
@@ -1876,7 +1867,7 @@
    "venue": "2012 IEEE Global Humanitarian Technology Conference, 417-422",
    "year": "2012",
    "cites": 10,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:j3f4tGmQtD8C",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:j3f4tGmQtD8C",
    "areas": []
   },
   {
@@ -1885,7 +1876,7 @@
    "venue": "2012 IEEE 8th International Conference on Wireless and Mobile Computing…",
    "year": "2012",
    "cites": 19,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:RHpTSmoSYBkC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:RHpTSmoSYBkC",
    "areas": []
   },
   {
@@ -2347,15 +2338,6 @@
    "areas": []
   },
   {
-   "title": "Access to scholarly literature via a free knowledge management enabler: an opportunity for scientists in developing countries",
-   "authors": "E Canessa, C Fonda, M Zennaro, KR Sreenivasan",
-   "venue": "Knowledge Management for Development Journal 2 (3), 75-85",
-   "year": "2006",
-   "cites": 3,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:YsMSGLbcyi4C",
-   "areas": []
-  },
-  {
    "title": "Funding scientific open access",
    "authors": "E Canessa, C Fonda, M Zennaro",
    "venue": "",
@@ -2374,6 +2356,15 @@
    "areas": []
   },
   {
+   "title": "Access to scholarly literature via a free knowledge management enabler: an opportunity for scientists in developing countries",
+   "authors": "E Canessa, C Fonda, M Zennaro, KR Sreenivasan",
+   "venue": "Knowledge Management for Development Journal 2 (3), 75-85",
+   "year": "2006",
+   "cites": 3,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:YsMSGLbcyi4C",
+   "areas": []
+  },
+  {
    "title": "Distributing Synchronous Programs Using Bounded Queues, a coordinated traffic signal application",
    "authors": "M Zennaro, R Sengupta",
    "venue": "",
@@ -2383,11 +2374,20 @@
    "areas": []
   },
   {
+   "title": "A Web community to foster science in developing countries: www. ictp. it",
+   "authors": "K Sreenivasan, C Fonda, M Zennaro, E Canessa",
+   "venue": "Proceedings of the IADIS International Conference on Web Based Communities…",
+   "year": "2005",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:BrmTIyaxlBUC",
+   "areas": []
+  },
+  {
    "title": "Radio laboratory handbook",
    "authors": "M Zennaro, C Fonda",
    "venue": "School on Digital Radio Communications for Research and Training in…",
    "year": "2004",
-   "cites": 10,
+   "cites": 13,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:hFOr9nPyWt4C",
    "areas": []
   },
@@ -2398,33 +2398,6 @@
    "year": "",
    "cites": 0,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:j7_hQOaDUrUC",
-   "areas": []
-  },
-  {
-   "title": "2 Detection Techniques",
-   "authors": "H Mauwa, A Bagula, M Zennaro, E Pietrosemoli, A Lysko, TX Brown",
-   "venue": "",
-   "year": "",
-   "cites": 0,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:LhH-TYMQEocC",
-   "areas": []
-  },
-  {
-   "title": "2 Challenges of Spectrum Sensing Explained",
-   "authors": "H Mauwa, A Bagula, M Zennaro",
-   "venue": "",
-   "year": "",
-   "cites": 0,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:yqoGN6RLRZoC",
-   "areas": []
-  },
-  {
-   "title": "Networking Basics",
-   "authors": "C Fonda, M Zennaro",
-   "venue": "",
-   "year": "",
-   "cites": 0,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:OR75R8vi5nAC",
    "areas": []
   },
   {
@@ -2446,30 +2419,12 @@
    "areas": []
   },
   {
-   "title": "Ocean of things per la conoscenza degli oceani",
-   "authors": "A Crise, M Zennaro, D Ramani",
-   "venue": "Trieste Next 2019-Big Data, Deep Science, 0",
-   "year": "",
-   "cites": 0,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:yB1At4FlUx8C",
-   "areas": []
-  },
-  {
    "title": "TV-White Spaces for Education: The Internet for Education in Boane",
    "authors": "S David, I Ruby, E Pietrosimoli, M Zennaro",
    "venue": "Conference on M4D Mobile Communication Technology for Development, 265, 0",
    "year": "",
    "cites": 0,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Y5dfb0dijaUC",
-   "areas": []
-  },
-  {
-   "title": "Java Modeling Language",
-   "authors": "M Zennaro",
-   "venue": "",
-   "year": "",
-   "cites": 0,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:AXPGKjj_ei8C",
    "areas": []
   },
   {
@@ -2482,21 +2437,12 @@
    "areas": []
   },
   {
-   "title": "Caltrans Task Order 5311: Development of Hardware in the Loop Simulation and Paramics/VS-PLUS Integration Final Report",
-   "authors": "A Skabardonis, S Dickey, M Li, J Yee, M Zennaro, HX Liu, W Ma, H Liu, ...",
-   "venue": "",
-   "year": "",
-   "cites": 0,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:M3NEmzRMIkIC",
-   "areas": []
-  },
-  {
    "title": "WSN4D: Wireless Sensor Networks for Development",
    "authors": "M Zennaro, C Noda, I Howard, B Pehrson, SM Radicella",
    "venue": "",
    "year": "",
    "cites": 0,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:M3ejUd6NZC8C",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:M3ejUd6NZC8C",
    "areas": []
   },
   {
@@ -2505,7 +2451,7 @@
    "venue": "",
    "year": "",
    "cites": 0,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=300&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:8k81kl-MbHgC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:8k81kl-MbHgC",
    "areas": []
   }
  ]
