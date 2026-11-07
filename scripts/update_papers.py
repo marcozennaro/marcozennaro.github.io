@@ -10,6 +10,7 @@ Uses only the Python standard library plus curl. Google Scholar has no official 
 sometimes blocks automated requests (especially from cloud/CI machines), so
 run this from your own computer. If it gets blocked, just try again later.
 """
+import difflib
 import html
 import json
 import re
@@ -18,7 +19,7 @@ import time
 from pathlib import Path
 
 SCHOLAR_ID = "qOtlP1AAAAAJ"
-MAX_PAPERS = 300
+MAX_PAPERS = 2000
 OUT = Path(__file__).resolve().parent.parent / "_data" / "papers.json"
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -83,8 +84,50 @@ def areas_for(title):
     return [a for a, kws in AREAS.items() if any(k in t for k in kws)]
 
 
+# Scholar lists some works several times under different titles that the
+# automatic checks below cannot match. Each group is a list of patterns
+# (searched in the normalized title: lower-case letters and digits only);
+# entries matching any pattern of a group are counted as one work.
+SAME_WORK = [
+    # IRTF GAIA document: six Internet-Draft revisions and the final RFC 7962
+    ["globalaccesstotheinternetforalljsaldana", "alternativenetworkdeployments",
+     "requestforcomments7962"],
+    ["binarygreywolfoptimi"],
+    ["widespreadapplicationoflowcosttechnologiesincoastaloceanobserving"],
+    ["wirelessnetworkinginthedevelopingworld"],  # 2006 and 2013 editions
+    ["solarmonitoringsysteminmalawi"],
+    ["bytewalla3", "bytewallaiii"],
+]
+
+# Entries that are not publications at all (case-insensitive regex on title).
+NOT_PAPERS = [
+    r"organizing committee",
+    r"^project proposal",
+]
+
+
 def norm(title):
-    return re.sub(r"[^a-z0-9]", "", title.lower())
+    t = re.sub(r"^(research article|refereed paper|original article|rfc \d+:)\s+",
+               "", title.lower().strip())
+    return re.sub(r"[^a-z0-9]", "", t)
+
+
+def same_work(p, q):
+    a, b = norm(p["title"]), norm(q["title"])
+    if a == b:
+        return True
+    for group in SAME_WORK:
+        if any(g in a for g in group) and any(g in b for g in group):
+            return True
+    # Only compare near-identical titles from the same year, so a conference
+    # paper and its later journal version are still counted separately.
+    same_year = p["year"] == q["year"] or not p["year"] or not q["year"]
+    if not same_year:
+        return False
+    short, long_ = sorted((a, b), key=len)
+    if len(short) >= 6 and long_.startswith(short):
+        return True  # e.g. "RFTrack" and "RFTrack: a tool for ..."
+    return difflib.SequenceMatcher(None, a, b).ratio() >= 0.95
 
 
 def main():
@@ -100,19 +143,23 @@ def main():
     if not rows:
         raise SystemExit("No papers parsed - Scholar may be blocking the request. Try later.")
 
-    # Scholar often lists a preprint and the published version separately;
-    # keep the entry with more citations (or the first one, which is newer).
-    seen, papers = {}, []
+    # Scholar often lists the same work more than once (preprint and published
+    # version, parsing errors, draft revisions); keep one entry per work, the
+    # one with more citations.
+    papers, merged, dropped = [], [], []
     for p in rows:
-        key = norm(p["title"])
-        if key in seen:
-            kept = seen[key]
-            if p["cites"] > kept["cites"]:
-                kept.update(p)
+        if any(re.search(rx, p["title"], re.I) for rx in NOT_PAPERS):
+            dropped.append(p["title"])
             continue
+        kept = next((q for q in papers if same_work(p, q)), None)
+        if kept is None:
+            papers.append(p)
+            continue
+        merged.append((p["title"], kept["title"]))
+        if p["cites"] > kept["cites"]:
+            kept.update(p)
+    for p in papers:
         p["areas"] = areas_for(p["title"])
-        seen[key] = p
-        papers.append(p)
 
     data = {
         "updated": time.strftime("%Y-%m-%d"),
@@ -124,6 +171,12 @@ def main():
     }
     OUT.write_text(json.dumps(data, indent=1, ensure_ascii=False) + "\n")
     counts = {a: sum(a in p["areas"] for p in papers) for a in AREAS}
+    print(f"Scholar entries: {len(rows)}; duplicates merged: {len(merged)}; "
+          f"non-papers dropped: {len(dropped)}")
+    for dup, into in merged:
+        print(f"  merged:  {dup[:70]}\n     into: {into[:70]}")
+    for t in dropped:
+        print(f"  dropped: {t[:70]}")
     print(f"Wrote {len(papers)} papers to {OUT} ({counts})")
 
 
