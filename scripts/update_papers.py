@@ -29,7 +29,7 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
 # of the three research areas shown on the site. Edit freely.
 AREAS = {
     "tinyml": ["tinyml", "tiny ml", "tiny machine learning", "edge ai",
-               "edge ml", "edge machine learning", "embedded machine learning",
+               "edge ml", "edge machine learning", "embedded machine learning", "embedded ai",
                "machine learning at the edge", "edge impulse", "microcontroller",
                "on-device", "quantized", "frugal intelligence", "aiot"],
     "weather": ["weather", "meteorolog", "rain gauge", "rainfall",

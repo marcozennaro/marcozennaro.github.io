@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-19",
  "scholar_id": "qOtlP1AAAAAJ",
- "citations": 5562,
- "h_index": 37,
+ "citations": 5589,
+ "h_index": 38,
  "i10_index": 108,
  "papers": [
   {
@@ -10,7 +10,7 @@
    "authors": "NF Abdullah, S Heidary, IH Zulkifli, A Abu-Samah, R Ibrahim, N Subhi, ...",
    "venue": "Cogent Education 13 (1), 2598923",
    "year": "2026",
-   "cites": 4,
+   "cites": 5,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:QD3KBmkZPeQC",
    "areas": []
   },
@@ -31,6 +31,17 @@
    "cites": 0,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:43bX7VzcjpAC",
    "areas": []
+  },
+  {
+   "title": "SNeuron: Learnable Structural Neuron Gating for Energy-Efficient Embedded AI",
+   "authors": "MS Alziyad, MH Al-Zahrani, RS Molina, ML Crespo, M Zennaro",
+   "venue": "IEEE Embedded Systems Letters",
+   "year": "2026",
+   "cites": 0,
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:WHdLCjDvYFkC",
+   "areas": [
+    "tinyml"
+   ]
   },
   {
    "title": "Prompt-Guided Resource-Aware Neural Architecture Search for TinyML Object Detection Models",
@@ -228,7 +239,7 @@
    "authors": "A Mellit, N Blasuttigh, S Pastore, M Zennaro, AM Pavan",
    "venue": "IEEE Transactions on Industry Applications 61 (5), 8158-8169",
    "year": "2025",
-   "cites": 13,
+   "cites": 14,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:4X0JR2_MtJMC",
    "areas": [
     "tinyml"
@@ -288,7 +299,7 @@
    "authors": "V Ninkovic, D Vukobratovic, D Miskovic, M Zennaro",
    "venue": "IEEE Internet of Things Journal 12 (5), 5305-5319",
    "year": "2024",
-   "cites": 21,
+   "cites": 23,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:gKiMpY-AVTkC",
    "areas": []
   },
@@ -297,7 +308,7 @@
    "authors": "B Arratia, E Rosas, E Pietrosemoli, M Zennaro, JM Cecilia, P Manzoni",
    "venue": "Proceedings of the Twenty-fifth International Symposium on Theory…",
    "year": "2024",
-   "cites": 4,
+   "cites": 5,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:gVv57TyPmFsC",
    "areas": [
     "tinyml"
@@ -317,7 +328,7 @@
    "authors": "B Arratia, JM Cecilia, P Manzoni, D Hernández, M Zennaro",
    "venue": "Latin American High Performance Computing Conference, 246-260",
    "year": "2024",
-   "cites": 1,
+   "cites": 2,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:AHdEip9mkN0C",
    "areas": [
     "tinyml"
@@ -397,7 +408,7 @@
    "authors": "SB Chougule, BS Chaudhari, SN Ghorpade, M Zennaro",
    "venue": "World Electric Vehicle Journal 15 (2), 39",
    "year": "2024",
-   "cites": 69,
+   "cites": 70,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:ODE9OILHJdcC",
    "areas": []
   },
@@ -486,7 +497,7 @@
    "authors": "O Atanane, A Mourhir, N Benamar, M Zennaro",
    "venue": "Sensors 23 (22), 9210",
    "year": "2023",
-   "cites": 65,
+   "cites": 67,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:yFnVuubrUp4C",
    "areas": [
     "tinyml"
@@ -595,7 +606,7 @@
    "authors": "IN Mihigo, M Zennaro, A Uwitonze, J Rwigema, M Rovai",
    "venue": "Sensors 22 (14), 5174",
    "year": "2022",
-   "cites": 74,
+   "cites": 76,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:0izLItjtcgwC",
    "areas": [
     "tinyml"
@@ -615,7 +626,7 @@
    "authors": "SS Musa, M Zennaro, M Libsie, E Pietrosemoli",
    "venue": "Future Internet 14 (7), 192",
    "year": "2022",
-   "cites": 39,
+   "cites": 40,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:FAceZFleit8C",
    "areas": []
   },
@@ -794,7 +805,7 @@
    "authors": "MJ Sule, M Zennaro, G Thomas",
    "venue": "Technology in Society 67, 101734",
    "year": "2021",
-   "cites": 121,
+   "cites": 123,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:HbR8gkJAVGIC",
    "areas": []
   },
@@ -895,7 +906,7 @@
    "authors": "S Ghorpade, M Zennaro, BS Chaudhari",
    "venue": "International Journal of Sensor Networks 35 (2), 121-131",
    "year": "2021",
-   "cites": 37,
+   "cites": 38,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:M7yex6snE4oC",
    "areas": []
   },
@@ -922,7 +933,7 @@
    "authors": "I Niyonambaza, M Zennaro, A Uwitonze",
    "venue": "Future Internet 12 (12), 224",
    "year": "2020",
-   "cites": 71,
+   "cites": 72,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:lmc2jWPfTJgC",
    "areas": []
   },
@@ -968,7 +979,7 @@
    "venue": "Proceedings of the 1st Workshop on Experiences with the Design and…",
    "year": "2020",
    "cites": 3,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Z5m8FVwuT1cC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:Z5m8FVwuT1cC",
    "areas": []
   },
   {
@@ -1012,7 +1023,7 @@
    "authors": "M Kuradusenge, S Kumaran, M Zennaro",
    "venue": "International journal of environmental research and public health 17 (11), 4147",
    "year": "2020",
-   "cites": 112,
+   "cites": 113,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:BwyfMAYsbu0C",
    "areas": [
     "weather"
@@ -1041,7 +1052,7 @@
    "authors": "BS Chaudhari, M Zennaro",
    "venue": "Academic Press",
    "year": "2020",
-   "cites": 155,
+   "cites": 156,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:p__nRnzSRKYC",
    "areas": []
   },
@@ -1059,7 +1070,7 @@
    "authors": "BS Chaudhari, M Zennaro, S Borkar",
    "venue": "Future Internet 12 (3), 46",
    "year": "2020",
-   "cites": 431,
+   "cites": 433,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:vDijr-p_gm4C",
    "areas": []
   },
@@ -1086,7 +1097,7 @@
    "authors": "S Chan, M Zennaro, E Pietrosemoli, M Rainone, I Oktavianti, ...",
    "venue": "2020 10th Annual Computing and Communication Workshop and Conference (CCWC…",
    "year": "2020",
-   "cites": 11,
+   "cites": 12,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:uWiczbcajpAC",
    "areas": []
   },
@@ -1497,7 +1508,7 @@
    "authors": "A Bagula, L Castelli, M Zennaro",
    "venue": "Sensors 15 (7), 15443-15467",
    "year": "2015",
-   "cites": 214,
+   "cites": 215,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:tOudhMTPpwUC",
    "areas": []
   },
@@ -1740,7 +1751,7 @@
    "authors": "M Mafuta, M Zennaro, A Bagula, G Ault, H Gombachika, T Chadza",
    "venue": "International Journal of Distributed Sensor Networks 9 (5), 150703",
    "year": "2013",
-   "cites": 188,
+   "cites": 189,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_Qo2XoVZTnwC",
    "areas": []
   },
@@ -1749,7 +1760,7 @@
    "authors": "E Canessa, C Fonda, M Zennaro, N Deadline",
    "venue": "Low-Cost 3D Printing 11 (1)",
    "year": "2013",
-   "cites": 339,
+   "cites": 340,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:cFHS6HbyZ2cC",
    "areas": []
   },
@@ -1785,7 +1796,7 @@
    "authors": "L Leakey, T Dzambazova, E Canessa, C Fonda, M Zennaro",
    "venue": "Low-cost 3d printing for Science, Education and Sustainable Development, 159-162",
    "year": "2013",
-   "cites": 17,
+   "cites": 18,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:EYYDruWGBe4C",
    "areas": []
   },
@@ -1876,7 +1887,7 @@
    "venue": "2012 IEEE 8th International Conference on Wireless and Mobile Computing…",
    "year": "2012",
    "cites": 19,
-   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:RHpTSmoSYBkC",
+   "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:RHpTSmoSYBkC",
    "areas": []
   },
   {
@@ -1911,7 +1922,7 @@
    "authors": "M Zennaro, I Trieste-Italy",
    "venue": "2012",
    "year": "2012",
-   "cites": 17,
+   "cites": 18,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:KxtntwgDAa4C",
    "areas": []
   },
@@ -1938,7 +1949,7 @@
    "authors": "H Ntareme, M Zennaro, B Pehrson",
    "venue": "Proceedings of the 3rd Extreme Conference on Communication: The Amazon…",
    "year": "2011",
-   "cites": 94,
+   "cites": 95,
    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qOtlP1AAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=qOtlP1AAAAAJ:_kc_bZDykSQC",
    "areas": [
     "dtn"
